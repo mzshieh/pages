@@ -14,9 +14,5 @@
   "contact": {
     "order": 4,
     "display_name": "Contact"
-  },
-  "post-contest": {
-    "order": 5,
-    "display_name": "Post-Contest Update"
   }
 }
