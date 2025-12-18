@@ -1,0 +1,518 @@
+1:"$Sreact.fragment"
+2:I[5668,["619","static/chunks/619-ba102abea3e3d0e4.js","698","static/chunks/698-6bd989f1fab99d5c.js","239","static/chunks/239-1013213b0532a1ea.js","899","static/chunks/899-b6fc7e06ffaa2c04.js","177","static/chunks/app/layout-4a546245c4c2b197.js"],"ThemeProvider"]
+3:I[8732,["619","static/chunks/619-ba102abea3e3d0e4.js","698","static/chunks/698-6bd989f1fab99d5c.js","239","static/chunks/239-1013213b0532a1ea.js","899","static/chunks/899-b6fc7e06ffaa2c04.js","177","static/chunks/app/layout-4a546245c4c2b197.js"],"default"]
+4:I[9766,[],""]
+5:I[8924,[],""]
+6:I[2619,["619","static/chunks/619-ba102abea3e3d0e4.js","345","static/chunks/app/not-found-8baac2b181c69ac9.js"],""]
+7:I[9926,["619","static/chunks/619-ba102abea3e3d0e4.js","698","static/chunks/698-6bd989f1fab99d5c.js","239","static/chunks/239-1013213b0532a1ea.js","899","static/chunks/899-b6fc7e06ffaa2c04.js","177","static/chunks/app/layout-4a546245c4c2b197.js"],"default"]
+a:I[4431,[],"OutletBoundary"]
+c:I[5278,[],"AsyncMetadataOutlet"]
+e:I[4431,[],"ViewportBoundary"]
+10:I[4431,[],"MetadataBoundary"]
+11:"$Sreact.suspense"
+13:I[7150,[],""]
+:HL["/_next/static/media/e4af272ccee01ff0-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/css/0f7d159e7cbf07ca.css","style"]
+:HL["/_next/static/css/3c8fc84456a26512.css","style"]
+:HL["/_next/static/css/01fc40d133734f3c.css","style"]
+:HL["/_next/static/css/0c04faee0818f8e8.css","style"]
+0:{"P":null,"b":"JjhIZaCmLeRyjdO7BsK-q","p":"","c":["","championship","2024","teams",""],"i":false,"f":[[["",{"children":["championship",{"children":[["year","2024","d"],{"children":[["section","teams","d"],{"children":["__PAGE__",{}]}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/0f7d159e7cbf07ca.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","suppressHydrationWarning":true,"children":[["$","head",null,{"children":[["$","meta",null,{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","link",null,{"rel":"icon","type":"image/png","href":"/favicon/favicon-96x96.png","sizes":"96x96"}],["$","link",null,{"rel":"icon","type":"image/svg+xml","href":"/favicon/favicon.svg"}],["$","link",null,{"rel":"shortcut icon","href":"/favicon.ico"}],["$","link",null,{"rel":"apple-touch-icon","sizes":"180x180","href":"/favicon/apple-touch-icon.png"}],["$","meta",null,{"name":"apple-mobile-web-app-title","content":"APAC'25"}],["$","link",null,{"rel":"manifest","href":"/favicon/site.webmanifest"}]]}],["$","body",null,{"className":"__className_f367f3 bg dark:bg-dark bg-fixed dark:text-slate-300","children":["$","$L2",null,{"children":[["$","$L3",null,{}],["$","div",null,{"className":"min-h-screen my-10","suppressHydrationWarning":true,"children":["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","div",null,{"className":"container mx-auto px-5 xl:w-3/4 overflow-x-clip","style":{"maxWidth":"1200px"},"children":["$","div",null,{"className":"flex flex-col items-center justify-center min-h-[60vh] text-center py-16","children":[["$","div",null,{"className":"mb-8","children":[["$","h1",null,{"className":"text-6xl font-bold text-text-header-secondary mb-4","children":"404"}],["$","h2",null,{"className":"text-2xl font-semibold text-gray-600 dark:text-gray-300 mb-4","children":"Page Not Found"}],["$","p",null,{"className":"text-lg text-gray-500 dark:text-gray-400 max-w-md mx-auto mb-8","children":"Oops! The page you're looking for doesn't exist or has been moved."}]]}],["$","div",null,{"className":"flex flex-col sm:flex-row gap-4 items-center","children":["$","$L6",null,{"href":"/championship/latest/information","className":"px-6 py-3 text-lg font-medium rounded-lg transition-colors dark:text-white border border-text-header-secondary dark:border-primaryAccent-dark bg-primaryAccent/10 dark:bg-primaryAccent-dark/10 text-text-header-secondary hover:bg-primaryAccent/20 dark:hover:bg-primaryAccent-dark/20","children":"See the current championship"}]}]]}]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","$L7",null,{}]]}]}]]}]]}],{"children":["championship",["$","$1","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["year","2024","d"],["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/3c8fc84456a26512.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],"$L8"]}],{"children":[["section","teams","d"],["$","$1","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L9",[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/01fc40d133734f3c.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/_next/static/css/0c04faee0818f8e8.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","$La",null,{"children":["$Lb",["$","$Lc",null,{"promise":"$@d"}]]}]]}],{},null,false]},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$Le",null,{"children":"$Lf"}],["$","meta",null,{"name":"next-size-adjust","content":""}]],["$","$L10",null,{"children":["$","div",null,{"hidden":true,"children":["$","$11",null,{"fallback":null,"children":"$L12"}]}]}]]}],false]],"m":"$undefined","G":["$13",[]],"s":false,"S":true}
+14:I[2995,["619","static/chunks/619-ba102abea3e3d0e4.js","698","static/chunks/698-6bd989f1fab99d5c.js","617","static/chunks/617-703b27bf1f764efa.js","239","static/chunks/239-1013213b0532a1ea.js","651","static/chunks/app/championship/%5Byear%5D/layout-e9eeae4589cd55f6.js"],"default"]
+8:["$","$L14",null,{"year":"2024","children":["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]}]
+f:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+b:null
+d:{"metadata":[["$","title","0",{"children":"The ICPC Asia Pacific Championship"}],["$","meta","1",{"name":"description","content":"The official website for the The ICPC Asia Pacific Championship"}],["$","meta","2",{"property":"og:title","content":"The ICPC Asia Pacific Championship"}],["$","meta","3",{"property":"og:description","content":"The official website for the The ICPC Asia Pacific Championship"}],["$","meta","4",{"property":"og:image","content":"https://people.cs.nycu.edu.tw/~linlys/icpcapac2026/assets/icpc-logo.png"}],["$","meta","5",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","6",{"name":"twitter:title","content":"The ICPC Asia Pacific Championship"}],["$","meta","7",{"name":"twitter:description","content":"The official website for the The ICPC Asia Pacific Championship"}],["$","meta","8",{"name":"twitter:image","content":"https://people.cs.nycu.edu.tw/~linlys/icpcapac2026/assets/icpc-logo.png"}]],"error":null,"digest":"$undefined"}
+12:"$d:metadata"
+15:I[140,["458","static/chunks/e58627ac-2cdcbe78189183e3.js","619","static/chunks/619-ba102abea3e3d0e4.js","698","static/chunks/698-6bd989f1fab99d5c.js","617","static/chunks/617-703b27bf1f764efa.js","59","static/chunks/59-cfe495d6d0cd8696.js","915","static/chunks/915-613c8b44be5f4fa9.js","825","static/chunks/825-f1065938856fd2d4.js","656","static/chunks/app/championship/%5Byear%5D/%5Bsection%5D/page-aed761722fd5f5ea.js"],"default"]
+16:T3831,These are the teams that participated in the 2024 ICPC Asia Pacific Championship, organized by country/region based on their university locations.
+
+## Japan (JPN)
+
+<table>
+  <thead>
+    <tr>
+      <th style="width: 10%; min-width: 100px"></th>
+      <th style="width: 30%; min-width: 200px;">University</th>
+      <th>Team Name(s)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><img src="/assets/university-logos/JPN_the-university-of-tokyo.png" alt="The University of Tokyo Logo" width="50"></td>
+      <td>The University of Tokyo</td>
+      <td>
+        <ul>
+          <li>Speed Star</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td><img src="/assets/university-logos/JPN_tokyo-institute-of-technology.png" alt="Tokyo Institute of Technology Logo" width="50"></td>
+      <td>Tokyo Institute of Technology</td>
+      <td>
+        <ul>
+          <li>tonosama</li>
+          <li>Bocchi The Tech</li>
+          <li>AMATSUKAZE</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td><img src="/assets/university-logos/JPN_osaka-university.png" alt="Osaka University Logo" width="50"></td>
+      <td>Osaka University</td>
+      <td>
+        <ul>
+          <li>kotamanegi_marunage</li>
+          <li>kotamanegi_mijingiri</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td><img src="/assets/university-logos/JPN_kyoto-university.png" alt="Kyoto University Logo" width="50"></td>
+      <td>Kyoto University</td>
+      <td>
+        <ul>
+          <li>KUB1sharp</li>
+          <li>Red Phobia</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td><img src="/assets/university-logos/JPN_university-of-tsukuba.png" alt="University of Tsukuba Logo" width="50"></td>
+      <td>University of Tsukuba</td>
+      <td>
+        <ul>
+          <li>GoodBye2023</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td><img src="/assets/university-logos/JPN_waseda-university.png" alt="Waseda University Logo" width="50"></td>
+      <td>Waseda University</td>
+      <td>
+        <ul>
+          <li>hot-k-k1</li>
+          <li>KKT89</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td><img src="/assets/university-logos/JPN_tohoku-university.png" alt="Tohoku University Logo" width="50"></td>
+      <td>Tohoku University</td>
+      <td>
+        <ul>
+          <li>Aobayama_doctors</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td><img src="/assets/university-logos/TWN_national-tsing-hua-university.png" alt="National Tsing Hua University Logo" width="50"></td>
+      <td>National Tsing Hua University</td>
+      <td>
+        <ul>
+          <li>NatsunoHanagaSakuYoihi</li>
+        </ul>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+## South Korea (KOR)
+
+<table>
+  <thead>
+    <tr>
+      <th style="width: 10%; min-width: 100px"></th>
+      <th style="width: 30%; min-width: 200px;">University</th>
+      <th>Team Name(s)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><img src="/assets/university-logos/KOR_seoul-national-university.png" alt="Seoul National University Logo" width="50"></td>
+      <td>Seoul National University</td>
+      <td>
+        <ul>
+          <li>NewTrend</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td><img src="/assets/university-logos/KOR_soongsil-university.png" alt="Soongsil University Logo" width="50"></td>
+      <td>Soongsil University</td>
+      <td>
+        <ul>
+          <li>PS akgwi</li>
+          <li>happihappi</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td><img src="/assets/university-logos/KOR_ulsan-national-institute-of-science-and-technology.png" alt="Ulsan National Institute of Science and Technology Logo" width="50"></td>
+      <td>Ulsan National Institute of Science and Technology</td>
+      <td>
+        <ul>
+          <li>Potom</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td><img src="/assets/university-logos/KOR_pohang-university-of-science-and-technology.png" alt="Pohang University of Science and Technology Logo" width="50"></td>
+      <td>Pohang University of Science and Technology</td>
+      <td>
+        <ul>
+          <li>AllSolvedin1557</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td><img src="/assets/university-logos/KOR_korea-university.png" alt="Korea University Logo" width="50"></td>
+      <td>Korea University</td>
+      <td>
+        <ul>
+          <li>SIGSEGV</li>
+          <li>SSM_Trio</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td><img src="/assets/university-logos/KOR_kyungpook-national-university.png" alt="Kyungpook National University Logo" width="50"></td>
+      <td>Kyungpook National University</td>
+      <td>
+        <ul>
+          <li>Hobanwoo</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td><img src="/assets/university-logos/KOR_yonsei-university.png" alt="Yonsei University Logo" width="50"></td>
+      <td>Yonsei University</td>
+      <td>
+        <ul>
+          <li>cookie</li>
+          <li>SCC_SinChonCoders</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td><img src="/assets/university-logos/KOR_sogang-university.png" alt="Sogang University Logo" width="50"></td>
+      <td>Sogang University</td>
+      <td>
+        <ul>
+          <li>Redshift</li>
+          <li>Raa FanClub</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td><img src="/assets/university-logos/KOR_pusan-national-university.png" alt="Pusan National University Logo" width="50"></td>
+      <td>Pusan National University</td>
+      <td>
+        <ul>
+          <li>CodeBorat</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td><img src="/assets/university-logos/KOR_jeonbuk-national-university.png" alt="Jeonbuk National University Logo" width="50"></td>
+      <td>Jeonbuk National University</td>
+      <td>
+        <ul>
+          <li>2 3 5 8 14</li>
+        </ul>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+## Vietnam (VNM)
+
+<table>
+  <thead>
+    <tr>
+      <th style="width: 10%; min-width: 100px"></th>
+      <th style="width: 30%; min-width: 200px;">University</th>
+      <th>Team Name(s)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><img src="/assets/university-logos/VNM_university-of-engineering-and-technology-vnu.png" alt="University of Engineering and Technology – VNU Logo" width="50"></td>
+      <td>University of Engineering and Technology – VNU</td>
+      <td>
+        <ul>
+          <li>sudo</li>
+          <li>cat</li>
+          <li>rmdir</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td><img src="/assets/university-logos/VNM_university-of-science-vnu-hcm.png" alt="University of Science, VNU-HCM Logo" width="50"></td>
+      <td>University of Science, VNU-HCM</td>
+      <td>
+        <ul>
+          <li>HCMUS-ExploringWorld</li>
+          <li>HCMUS-SmokinTomatoes</li>
+          <li>HCMUS-PeTalNyKing</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td><img src="/assets/university-logos/VNM_university-of-science-and-technology-danang.png" alt="University of Science and Technology – The University of Danang Logo" width="50"></td>
+      <td>University of Science and Technology – The University of Danang</td>
+      <td>
+        <ul>
+          <li>BKDN.LeaderTurnsBack</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td><img src="/assets/university-logos/VNM_hanoi-university-of-science-and-technology.png" alt="Hanoi University of Science and Technology Logo" width="50"></td>
+      <td>Hanoi University of Science and Technology</td>
+      <td>
+        <ul>
+          <li>HUST Kite</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td><img src="/assets/university-logos/VNM_hcmc-university-of-technology-and-education.png" alt="HCMC University of Technology and Education Logo" width="50"></td>
+      <td>HCMC University of Technology and Education</td>
+      <td>
+        <ul>
+          <li>HCMUTE.Fortune</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td><img src="/assets/university-logos/VNM_fpt-university.png" alt="FPT University Logo" width="50"></td>
+      <td>FPT University</td>
+      <td>
+        <ul>
+          <li>FPTU HN Ching Cheng Hanji</li>
+          <li>FPTU HN Right Triangle</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td><img src="/assets/university-logos/VNM_university-of-information-technology-vnu-hcm.png" alt="University of Information Technology – Vietnam National University HCM Logo" width="50"></td>
+      <td>University of Information Technology – Vietnam National University HCM</td>
+      <td>
+        <ul>
+          <li>UIT.HHQ.SilverBullet</li>
+        </ul>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+## Taiwan (TWN)
+
+<table>
+  <thead>
+    <tr>
+      <th style="width: 10%; min-width: 100px"></th>
+      <th style="width: 30%; min-width: 200px;">University</th>
+      <th>Team Name(s)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><img src="/assets/university-logos/TWN_national-taiwan-university.png" alt="National Taiwan University Logo" width="50"></td>
+      <td>National Taiwan University</td>
+      <td>
+        <ul>
+          <li>RngBased</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td><img src="/assets/university-logos/TWN_national-yang-ming-chiao-tung-university.png" alt="National Yang Ming Chiao Tung University Logo" width="50"></td>
+      <td>National Yang Ming Chiao Tung University</td>
+      <td>
+        <ul>
+          <li>NYCU_Yamada</li>
+          <li>NYCU_CartesianTree</li>
+          <li>NYCU_gAwr_gurA</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td><img src="/assets/university-logos/TWN_national-central-university.png" alt="National Central University Logo" width="50"></td>
+      <td>National Central University</td>
+      <td>
+        <ul>
+          <li>__builtin_orz()</li>
+          <li>NekoCuteUwU</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td><img src="/assets/university-logos/TWN_national-tsing-hua-university.png" alt="National Tsing Hua University Logo" width="50"></td>
+      <td>National Tsing Hua University</td>
+      <td>
+        <ul>
+          <li>BarkingWhat</li>
+          <li>Bossin</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td><img src="/assets/university-logos/TWN_national-taiwan-ocean-university.png" alt="National Taiwan Ocean University Logo" width="50"></td>
+      <td>National Taiwan Ocean University</td>
+      <td>
+        <ul>
+          <li>Rurudo_daisuki</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td><img src="/assets/university-logos/TWN_national-taiwan-normal-university.png" alt="National Taiwan Normal University Logo" width="50"></td>
+      <td>National Taiwan Normal University</td>
+      <td>
+        <ul>
+          <li>Team_Alpha</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td><img src="/assets/university-logos/TWN_national-chung-cheng-university.png" alt="National Chung Cheng University Logo" width="50"></td>
+      <td>National Chung Cheng University</td>
+      <td>
+        <ul>
+          <li>CCU_D'1st'ance</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td><img src="/assets/university-logos/TWN_ming-chuan-university.png" alt="Ming Chuan University Logo" width="50"></td>
+      <td>Ming Chuan University</td>
+      <td>
+        <ul>
+          <li>MCU_NL</li>
+        </ul>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+## Singapore (SGP)
+
+<table>
+  <thead>
+    <tr>
+      <th style="width: 10%; min-width: 100px"></th>
+      <th style="width: 30%; min-width: 200px;">University</th>
+      <th>Team Name(s)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><img src="/assets/university-logos/SGP_national-university-of-singapore.png" alt="National University of Singapore Logo" width="50"></td>
+      <td>National University of Singapore</td>
+      <td>
+        <ul>
+          <li>absinthe</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td><img src="/assets/university-logos/SGP_nanyang-technological-university.png" alt="Nanyang Technological University Logo" width="50"></td>
+      <td>Nanyang Technological University</td>
+      <td>
+        <ul>
+          <li>UknoWho</li>
+          <li>NTRLover</li>
+          <li>Temporarily Unavailable</li>
+        </ul>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+## Indonesia (IDN)
+
+<table>
+  <thead>
+    <tr>
+      <th style="width: 10%; min-width: 100px"></th>
+      <th style="width: 30%; min-width: 200px;">University</th>
+      <th>Team Name(s)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><img src="/assets/university-logos/IDN_universitas-indonesia.png" alt="Universitas Indonesia Logo" width="50"></td>
+      <td>Universitas Indonesia</td>
+      <td>
+        <ul>
+          <li>Rigor Mormist</li>
+          <li>O(N^3)</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td><img src="/assets/university-logos/IDN_institut-teknologi-bandung.png" alt="Institut Teknologi Bandung Logo" width="50"></td>
+      <td>Institut Teknologi Bandung</td>
+      <td>
+        <ul>
+          <li>STnofarjo</li>
+          <li>Tiga Pilot</li>
+          <li>DoaAyahRestuIbu</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td><img src="/assets/university-logos/IDN_binus-university.png" alt="BINUS University Logo" width="50"></td>
+      <td>BINUS University</td>
+      <td>
+        <ul>
+          <li>Cells Or Birds?</li>
+          <li>Kevich</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td><img src="/assets/university-logos/IDN_universitas-gadjah-mada.png" alt="Gadjah Mada University Logo" width="50"></td>
+      <td>Gadjah Mada University</td>
+      <td>
+        <ul>
+          <li>GMAC</li>
+        </ul>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+## Thailand (THA)
+
+<table>
+  <thead>
+    <tr>
+      <th style="width: 10%; min-width: 100px"></th>
+      <th style="width: 30%; min-width: 200px;">University</th>
+      <th>Team Name(s)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><img src="/assets/university-logos/THA_university-of-the-thai-chamber-of-commerce.png" alt="University of the Thai Chamber of Commerce Logo" width="50"></td>
+      <td>University of the Thai Chamber of Commerce</td>
+      <td>
+        <ul>
+          <li>Imposters</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td><img src="/assets/university-logos/THA_chulalongkorn-university.png" alt="Chulalongkorn University Logo" width="50"></td>
+      <td>Chulalongkorn University</td>
+      <td>
+        <ul>
+          <li>Vaporised</li>
+        </ul>
+      </td>
+    </tr>
+  </tbody>
+</table>9:["$","$L15",null,{"subfolderContentsArray":[{"title":"Participating Teams","content":"$16","lastUpdated":"$undefined","directoryName":"teams","previousVersions":"$undefined"}],"year":"2024","pageTopTitle":"Teams","pageTopSlug":"teams","showSubfolderTitles":false}]

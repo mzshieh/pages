@@ -1,0 +1,369 @@
+1:"$Sreact.fragment"
+2:I[5668,["619","static/chunks/619-ba102abea3e3d0e4.js","698","static/chunks/698-6bd989f1fab99d5c.js","239","static/chunks/239-1013213b0532a1ea.js","899","static/chunks/899-b6fc7e06ffaa2c04.js","177","static/chunks/app/layout-4a546245c4c2b197.js"],"ThemeProvider"]
+3:I[8732,["619","static/chunks/619-ba102abea3e3d0e4.js","698","static/chunks/698-6bd989f1fab99d5c.js","239","static/chunks/239-1013213b0532a1ea.js","899","static/chunks/899-b6fc7e06ffaa2c04.js","177","static/chunks/app/layout-4a546245c4c2b197.js"],"default"]
+4:I[9766,[],""]
+5:I[8924,[],""]
+6:I[2619,["619","static/chunks/619-ba102abea3e3d0e4.js","345","static/chunks/app/not-found-8baac2b181c69ac9.js"],""]
+7:I[9926,["619","static/chunks/619-ba102abea3e3d0e4.js","698","static/chunks/698-6bd989f1fab99d5c.js","239","static/chunks/239-1013213b0532a1ea.js","899","static/chunks/899-b6fc7e06ffaa2c04.js","177","static/chunks/app/layout-4a546245c4c2b197.js"],"default"]
+a:I[4431,[],"OutletBoundary"]
+c:I[5278,[],"AsyncMetadataOutlet"]
+e:I[4431,[],"ViewportBoundary"]
+10:I[4431,[],"MetadataBoundary"]
+11:"$Sreact.suspense"
+13:I[7150,[],""]
+:HL["/_next/static/media/e4af272ccee01ff0-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/css/0f7d159e7cbf07ca.css","style"]
+:HL["/_next/static/css/3c8fc84456a26512.css","style"]
+:HL["/_next/static/css/01fc40d133734f3c.css","style"]
+:HL["/_next/static/css/0c04faee0818f8e8.css","style"]
+0:{"P":null,"b":"JjhIZaCmLeRyjdO7BsK-q","p":"","c":["","championship","2025","competition",""],"i":false,"f":[[["",{"children":["championship",{"children":[["year","2025","d"],{"children":[["section","competition","d"],{"children":["__PAGE__",{}]}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/0f7d159e7cbf07ca.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","suppressHydrationWarning":true,"children":[["$","head",null,{"children":[["$","meta",null,{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","link",null,{"rel":"icon","type":"image/png","href":"/favicon/favicon-96x96.png","sizes":"96x96"}],["$","link",null,{"rel":"icon","type":"image/svg+xml","href":"/favicon/favicon.svg"}],["$","link",null,{"rel":"shortcut icon","href":"/favicon.ico"}],["$","link",null,{"rel":"apple-touch-icon","sizes":"180x180","href":"/favicon/apple-touch-icon.png"}],["$","meta",null,{"name":"apple-mobile-web-app-title","content":"APAC'25"}],["$","link",null,{"rel":"manifest","href":"/favicon/site.webmanifest"}]]}],["$","body",null,{"className":"__className_f367f3 bg dark:bg-dark bg-fixed dark:text-slate-300","children":["$","$L2",null,{"children":[["$","$L3",null,{}],["$","div",null,{"className":"min-h-screen my-10","suppressHydrationWarning":true,"children":["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","div",null,{"className":"container mx-auto px-5 xl:w-3/4 overflow-x-clip","style":{"maxWidth":"1200px"},"children":["$","div",null,{"className":"flex flex-col items-center justify-center min-h-[60vh] text-center py-16","children":[["$","div",null,{"className":"mb-8","children":[["$","h1",null,{"className":"text-6xl font-bold text-text-header-secondary mb-4","children":"404"}],["$","h2",null,{"className":"text-2xl font-semibold text-gray-600 dark:text-gray-300 mb-4","children":"Page Not Found"}],["$","p",null,{"className":"text-lg text-gray-500 dark:text-gray-400 max-w-md mx-auto mb-8","children":"Oops! The page you're looking for doesn't exist or has been moved."}]]}],["$","div",null,{"className":"flex flex-col sm:flex-row gap-4 items-center","children":["$","$L6",null,{"href":"/championship/latest/information","className":"px-6 py-3 text-lg font-medium rounded-lg transition-colors dark:text-white border border-text-header-secondary dark:border-primaryAccent-dark bg-primaryAccent/10 dark:bg-primaryAccent-dark/10 text-text-header-secondary hover:bg-primaryAccent/20 dark:hover:bg-primaryAccent-dark/20","children":"See the current championship"}]}]]}]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","$L7",null,{}]]}]}]]}]]}],{"children":["championship",["$","$1","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["year","2025","d"],["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/3c8fc84456a26512.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],"$L8"]}],{"children":[["section","competition","d"],["$","$1","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L9",[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/01fc40d133734f3c.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/_next/static/css/0c04faee0818f8e8.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","$La",null,{"children":["$Lb",["$","$Lc",null,{"promise":"$@d"}]]}]]}],{},null,false]},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$Le",null,{"children":"$Lf"}],["$","meta",null,{"name":"next-size-adjust","content":""}]],["$","$L10",null,{"children":["$","div",null,{"hidden":true,"children":["$","$11",null,{"fallback":null,"children":"$L12"}]}]}]]}],false]],"m":"$undefined","G":["$13",[]],"s":false,"S":true}
+14:I[2995,["619","static/chunks/619-ba102abea3e3d0e4.js","698","static/chunks/698-6bd989f1fab99d5c.js","617","static/chunks/617-703b27bf1f764efa.js","239","static/chunks/239-1013213b0532a1ea.js","651","static/chunks/app/championship/%5Byear%5D/layout-e9eeae4589cd55f6.js"],"default"]
+8:["$","$L14",null,{"year":"2025","children":["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]}]
+f:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+b:null
+d:{"metadata":[["$","title","0",{"children":"The ICPC Asia Pacific Championship"}],["$","meta","1",{"name":"description","content":"The official website for the The ICPC Asia Pacific Championship"}],["$","meta","2",{"property":"og:title","content":"The ICPC Asia Pacific Championship"}],["$","meta","3",{"property":"og:description","content":"The official website for the The ICPC Asia Pacific Championship"}],["$","meta","4",{"property":"og:image","content":"https://people.cs.nycu.edu.tw/~linlys/icpcapac2026/assets/icpc-logo.png"}],["$","meta","5",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","6",{"name":"twitter:title","content":"The ICPC Asia Pacific Championship"}],["$","meta","7",{"name":"twitter:description","content":"The official website for the The ICPC Asia Pacific Championship"}],["$","meta","8",{"name":"twitter:image","content":"https://people.cs.nycu.edu.tw/~linlys/icpcapac2026/assets/icpc-logo.png"}]],"error":null,"digest":"$undefined"}
+12:"$d:metadata"
+15:I[140,["458","static/chunks/e58627ac-2cdcbe78189183e3.js","619","static/chunks/619-ba102abea3e3d0e4.js","698","static/chunks/698-6bd989f1fab99d5c.js","617","static/chunks/617-703b27bf1f764efa.js","59","static/chunks/59-cfe495d6d0cd8696.js","915","static/chunks/915-613c8b44be5f4fa9.js","825","static/chunks/825-f1065938856fd2d4.js","656","static/chunks/app/championship/%5Byear%5D/%5Bsection%5D/page-aed761722fd5f5ea.js"],"default"]
+16:Td85,
+## Judging Environment
+* [DOMjudge Team Manual](/assets/championship/2025/domjudge-team-manual.pdf) (Updated on February 3, 2025)
+* [Judging Details](/assets/championship/2025/judging-details.pdf) (Updated on February 3, 2025)
+
+## Contestant Environment
+* [Technical Notes](/assets/championship/2025/technical-notes.pdf) (Updated on February 16, 2025)
+
+### Hardware
+* **System unit**: [HP ZBook Power 15.6 inch G10](https://support.hp.com/us-en/product/details/hp-zbook-power-15.6-inch-g10-mobile-workstation-pc/model/2101596022), with 16GB RAM and 13th Generation Intel® Core™ i7-13800H processor.
+* **External screen**: Not provided.
+* **External keyboard**: Not provided.
+* **External mouse**:  HP 125 Wired Mouse (image [here](/assets/championship/2025/mouse.jpg)).
+
+System unit and External mouse:
+<figure>
+  <img src="/assets/championship/2025/system-unit-and-mouse.jpg" style="width: 50%; display: block; margin: 0 auto;" alt="System Unit and Mouse">
+  <figcaption>System unit and External mouse</figcaption>
+</figure>
+
+
+No hardware substitutions will be allowed (that is, teams may not bring their own equipment onto the contest floor). This includes that teams may not substitute keyboards or other peripherals; all teams will use identical equipment, as described above, during the contest.
+
+### Software
+* Operating System: **Ubuntu 22.04**. A list of packages included in the OS image can be found [here](/assets/championship/2025/os-packages.txt).
+* Desktop: GNOME
+* IDE:
+  * **Eclipse** (version 4.34.0, 2024-12) for Java
+  * **IntelliJ** (IDEA Community Edition, version 2024.3.3) for Java/Kotlin
+  * **CLion** (version 2024.3.3) for C/C++
+  * **Pycharm** Community Edition Python IDE (version 2024.3.1) for Python
+  * **VS Code**(version 1.97.1) for Java, C/C++
+* Editors:
+  * vi/vim
+  * gvim
+  * emacs
+  * gedit
+  * geany
+  * kate
+* Languages:
+  * **Java**: Openjdk 17.0.14
+  * **C/C++**: gcc/g++ 11.4.0
+  * **Python**: (PyPy 7.3.17 with GCC 10.2.1 providing python 3.10.14). A list of the installed Python modules is available [here](/assets/championship/2025/pypy-modules.txt).
+  * **Kotlin**: Kotlin 1.7.21
+
+## Additional Items
+Contestants may also bring the following items to their work station. Contestants must bring these items to the dress rehearsal (Friday, 28 Feb 2025), and leave it on the work station at the end of the dress rehearsal.
+
+* Printed Team Reference Document (Team Notebook)
+  * This document may contain up to 25 pages of reference materials, single-sided, letter or A4 size, with pages numbered in the upper right-hand corner and your university name and team name printed in the upper left-hand corner.
+  * Text and illustrations must be readable by a person with correctable eyesight without magnification from a distance of 1/2 meter.
+  * It may include hand-written comments and corrections on the fronts of pages only.
+  * Each team will be permitted to bring three copies of the Team Reference Document described above.
+* Mascots.
+  * Plush animals or figures. 
+  * Loud and distracting mascots are prohibited.
+* Hygiene products.
+  * Handkerchief, tissues, grasses, masks.
+* Personal medicines.
+
+All the items are subject to the judges' inspection before the contest. Please note that all items should not disturb other teams in terms of noise, smell, or other things. No other materials are allowed to be in the work station.
+Each team is provided the stationaries, such as pens and papers, on the desk.
+17:Tb8c,
+## Judging Environment
+* [DOMjudge Team Manual](/assets/championship/2025/domjudge-team-manual.pdf) (Updated on February 3, 2025)
+* [Judging Details](/assets/championship/2025/judging-details.pdf) (Updated on February 3, 2025)
+
+## Contestant Environment
+* [Technical Notes](/assets/championship/2025/technical-notes.pdf) (Updated on February 16, 2025)
+
+### Hardware
+* **System unit**: [HP ZBook Power 15.6 inch G10](https://support.hp.com/us-en/product/details/hp-zbook-power-15.6-inch-g10-mobile-workstation-pc/model/2101596022), with 16GB RAM and 13th Generation Intel® Core™ i7-13800H processor.
+* **External screen**: Not provided.
+* **External keyboard**: Not provided.
+* **External mouse**:  HP 125 Wired Mouse (image [here](/assets/championship/2025/mouse.jpg)).
+
+System unit and External mouse:
+<figure>
+  <img src="/assets/championship/2025/system-unit-and-mouse.jpg" style="width: 50%; display: block; margin: 0 auto;" alt="System Unit and Mouse">
+  <figcaption>System unit and External mouse</figcaption>
+</figure>
+
+No hardware substitutions will be allowed (that is, teams may not bring their own equipment onto the contest floor). This includes that teams may not substitute keyboards or other peripherals; all teams will use identical equipment, as described above, during the contest.
+
+### Software
+* Operating System: **Ubuntu 22.04**. A list of packages included in the OS image can be found [here](/assets/championship/2025/os-packages.txt).
+* Desktop: GNOME
+* IDE:
+  * **Eclipse** (version 4.34.0, 2024-12) for Java
+  * **IntelliJ** (IDEA Ultimate Edition, version 2024.3.2.2) for Java/Kotlin
+  * **CLion** (version 2024.3.2) for C/C++
+  * **Pycharm** Professional Edition Python IDE (version 2024.3.1) for Python
+  * **VS Code**(version 1.96.2) for Java, C/C++
+* Editors:
+  * vi/vim
+  * gvim
+  * emacs
+  * gedit
+  * geany
+  * kate
+* Languages:
+  * **Java**: Openjdk 17.0.14
+  * **C/C++**: gcc/g++ 11.4.0
+  * **Python**: (PyPy 7.3.17 with GCC 10.2.1 providing python 3.10.14). A list of the installed Python modules is available [here](/assets/championship/2025/pypy-modules.txt).
+  * **Kotlin**: Kotlin 1.7.21
+
+## Additional Items
+Contestants may also bring the following items to their workstation. Contestants must bring these items to the practice session, and leave it on the workstation at the end of the practice session.
+
+* Printed Team Reference Document (Team Notebook)
+  * This document may contain up to 25 pages of reference materials, single-sided, letter or A4 size, with pages numbered in the upper right-hand corner and your university name and team name printed in the upper left-hand corner.
+  * Text and illustrations must be readable by a person with correctable eyesight without magnification from a distance of 1/2 meter.
+  * It may include hand-written comments and corrections on the fronts of pages only.
+  * Each team will be permitted to bring three copies of the Team Reference Document described above.
+18:Tb8b,## Judging Environment
+* [DOMjudge Team Manual](/assets/championship/2025/domjudge-team-manual.pdf) (Updated on February 3, 2025)
+* [Judging Details](/assets/championship/2025/judging-details.pdf) (Updated on February 3, 2025)
+
+## Contestant Environment
+* [Technical Notes](/assets/championship/2025/technical-notes.pdf) (Updated on February 16, 2025)
+
+### Hardware
+* **System unit**: [HP ZBook Power 15.6 inch G10](https://support.hp.com/us-en/product/details/hp-zbook-power-15.6-inch-g10-mobile-workstation-pc/model/2101596022), with 16GB RAM and 13th Generation Intel® Core™ i7-13800H processor.
+* **External screen**: Not provided.
+* **External keyboard**: Not provided.
+* **External mouse**:  HP 125 Wired Mouse (image [here](/assets/championship/2025/mouse.jpg)).
+
+System unit and External mouse:
+<figure>
+  <img src="/assets/championship/2025/system-unit-and-mouse.jpg" style="width: 50%; display: block; margin: 0 auto;" alt="System Unit and Mouse">
+  <figcaption>System unit and External mouse</figcaption>
+</figure>
+
+No hardware substitutions will be allowed (that is, teams may not bring their own equipment onto the contest floor). This includes that teams may not substitute keyboards or other peripherals; all teams will use identical equipment, as described above, during the contest.
+
+### Software
+* Operating System: **Ubuntu 22.04**. A list of packages included in the OS image can be found [here](/assets/championship/2025/os-packages.txt).
+* Desktop: GNOME
+* IDE:
+  * **Eclipse** (version 4.34.0, 2024-12) for Java
+  * **IntelliJ** (IDEA Ultimate Edition, version 2024.3.2.2) for Java/Kotlin
+  * **CLion** (version 2024.3.2) for C/C++
+  * **Pycharm** Professional Edition Python IDE (version 2024.3.1) for Python
+  * **VS Code**(version 1.96.2) for Java, C/C++
+* Editors:
+  * vi/vim
+  * gvim
+  * emacs
+  * gedit
+  * geany
+* Languages:
+  * **Java**: Openjdk 17.0.13 17.0.5
+  * **C/C++**: gcc/g++ 11.4.0
+  * **Python**: (PyPy 7.3.17 with GCC 10.2.1 providing python 3.10.14). A list of the installed Python modules is available [here](/assets/championship/2025/pypy-modules.txt).
+  * **Kotlin**: To be announced
+
+## Additional Items
+Contestants may also bring the following items to their workstation. Contestants must bring these items to the practice session, and leave it on the workstation at the end of the practice session.
+
+* Printed Team Reference Document (Team Notebook)
+  * This document may contain up to 25 pages of reference materials, single-sided, letter or A4 size, with pages numbered in the upper right-hand corner and your university name and team name printed in the upper left-hand corner.
+  * Text and illustrations must be readable by a person with correctable eyesight without magnification from a distance of 1/2 meter.
+  * It may include hand-written comments and corrections on the fronts of pages only.
+  * Each team will be permitted to bring three copies of the Team Reference Document described above.
+19:Tb29,## Judging Environment
+* [DOMjudge Team Manual](/assets/championship/2025/domjudge-team-manual.pdf) (Updated on February 3, 2025)
+* [Judging Details](/assets/championship/2025/judging-details.pdf) (Updated on February 3, 2025)
+
+## Contestant Environment
+
+### Hardware
+* **System unit**: [HP ZBook Power 15.6 inch G10](https://support.hp.com/us-en/product/details/hp-zbook-power-15.6-inch-g10-mobile-workstation-pc/model/2101596022), with 16GB RAM and 13th Generation Intel® Core™ i7-13800H processor.
+* **External screen**: Not provided.
+* **External keyboard**: Not provided.
+* **External mouse**:  HP 125 Wired Mouse (image [here](/assets/championship/2025/mouse.jpg)).
+
+System unit and External mouse:
+<figure>
+  <img src="/assets/championship/2025/system-unit-and-mouse.jpg" style="width: 50%; display: block; margin: 0 auto;" alt="System Unit and Mouse">
+  <figcaption>System unit and External mouse</figcaption>
+</figure>
+
+No hardware substitutions will be allowed (that is, teams may not bring their own equipment onto the contest floor). This includes that teams may not substitute keyboards or other peripherals; all teams will use identical equipment, as described above, during the contest.
+
+### Software
+* Operating System: **Ubuntu 22.04**. A list of packages included in the OS image can be found [here](/assets/championship/2025/os-packages.txt).
+* Desktop: GNOME
+* IDE:
+  * **Eclipse** (version 4.34.0, 2024-12) for Java
+  * **IntelliJ** (IDEA Ultimate Edition, version 2024.3.2.2) for Java/Kotlin
+  * **CLion** (version 2024.3.2) for C/C++
+  * **Pycharm** Professional Edition Python IDE (version 2024.3.1) for Python
+  * **VS Code**(version 1.96.2) for Java, C/C++
+* Editors:
+  * vi/vim
+  * gvim
+  * emacs
+  * gedit
+  * geany
+* Languages:
+  * **Java**: Openjdk 17.0.13 17.0.5
+  * **C/C++**: gcc/g++ 11.4.0
+  * **Python**: (PyPy 7.3.17 with GCC 10.2.1 providing python 3.10.14). A list of the installed Python modules is available [here](/assets/championship/2025/pypy-modules.txt).
+  * **Kotlin**: To be announced
+
+## Additional Items
+Contestants may also bring the following items to their workstation. Contestants must bring these items to the practice session, and leave it on the workstation at the end of the practice session.
+
+* Printed Team Reference Document (Team Notebook)
+  * This document may contain up to 25 pages of reference materials, single-sided, letter or A4 size, with pages numbered in the upper right-hand corner and your university name and team name printed in the upper left-hand corner.
+  * Text and illustrations must be readable by a person with correctable eyesight without magnification from a distance of 1/2 meter.
+  * It may include hand-written comments and corrections on the fronts of pages only.
+  * Each team will be permitted to bring three copies of the Team Reference Document described above.
+1a:Tac3,## Judging Environment
+* [DOMjudge Team Manual](/assets/championship/2025/domjudge-team-manual.pdf) (Updated on February 3, 2025)
+* [Judging Details](/assets/championship/2025/judging-details.pdf) (Updated on February 3, 2025)
+
+## Contestant Environment
+
+### Hardware
+* **System unit**: [HP ZBook Power 15.6 inch G10](https://support.hp.com/us-en/product/details/hp-zbook-power-15.6-inch-g10-mobile-workstation-pc/model/2101596022), with 16GB RAM and 13th Generation Intel® Core™ i7-13800H processor.
+* **External screen**: Not provided.
+* **External keyboard**: Not provided.
+* **External mouse**:  HP 125 Wired Mouse (image [here](/assets/championship/2025/mouse.jpg)).
+
+System unit and External mouse:
+<figure>
+  <img src="/assets/championship/2025/system-unit-and-mouse.jpg" style="width: 50%; display: block; margin: 0 auto;" alt="System Unit and Mouse">
+  <figcaption>System unit and External mouse</figcaption>
+</figure>
+
+No hardware substitutions will be allowed (that is, teams may not bring their own equipment onto the contest floor). This includes that teams may not substitute keyboards or other peripherals; all teams will use identical equipment, as described above, during the contest.
+
+### Software
+* Operating System: **Ubuntu 22.04**. A list of packages included in the OS image can be found [here](/assets/championship/2025/os-packages.txt).
+* Desktop: GNOME
+* IDE:
+  * **Eclipse** (version 4.34.0, 2024-12) for Java
+  * **IntelliJ** (IDEA Ultimate Edition, version 2024.3.2.2) for Java/Kotlin
+  * **CLion** (version 2024.3.2) for C/C++
+  * **Pycharm** Professional Edition Python IDE (version 2024.3.1) for Python
+  * **VS Code**(version 1.96.2) for Java, C/C++
+* Editors:
+  * vi/vim
+  * gvim
+  * emacs
+  * gedit
+  * geany
+* Languages:
+  * **Java**: Openjdk 17.0.13 17.0.5
+  * **C/C++**: gcc/g++ 11.4.0
+  * **Python**: (PyPy 7.3.17 with GCC 10.2.1 providing python 3.10.14). A list of the installed Python modules is available [here](/assets/championship/2025/pypy-modules.txt).
+  * **Kotlin**: To be announced
+
+## Additional Items
+Contestants may also bring the following items to their workstation. Contestants must bring these items to the practice session, and leave it on the workstation at the end of the practice session.
+
+* Printed Team Reference Document (Team Notebook)
+  * This document may contain up to 25 pages of reference materials, single-sided, letter or A4 size, with pages numbered in the upper right-hand corner and your university name and team name printed in the upper left-hand corner.
+  * Text and illustrations must be readable by a person with correctable eyesight without magnification from a distance of 1/2 meter.
+  * It may include hand-written comments and corrections on the fronts of pages only.
+1b:T802,## Judging Environment
+* [DOMjudge Team Manual](/assets/championship/2025/domjudge-team-manual.pdf)
+* [Judging Details](/assets/championship/2025/judging-details.pdf)
+
+## Contestant Environment
+
+### Hardware
+* **System unit**: [HP ZBook Power 15.6 inch G10](https://support.hp.com/us-en/product/details/hp-zbook-power-15.6-inch-g10-mobile-workstation-pc/model/2101596022), with 32GB RAM, 512GB SSD, and 13th Generation Intel® Core™ i7-13700H processor.
+* **External screen**: Not provided.
+* **External keyboard**: Not provided.
+* **External mouse**:  HP 125 Wired Mouse (image [here](/assets/championship/2025/mouse.jpg)).
+
+System unit and External mouse:
+<figure>
+  <img src="/assets/championship/2025/system-unit-and-mouse.jpg" style="width: 50%; display: block; margin: 0 auto;" alt="System Unit and Mouse">
+  <figcaption>System unit and External mouse</figcaption>
+</figure>
+
+No hardware substitutions will be allowed (that is, teams may not bring their own equipment onto the contest floor). This includes that teams may not substitute keyboards or other peripherals; all teams will use identical equipment, as described above, during the contest.
+
+### Software
+* Operating System: Ubuntu 22.04 (To be confirmed)
+* Desktop: GNOME
+* IDE:
+  * To be announced
+* Editors:
+  * To be announced
+* Languages:
+  * To be announced
+
+## Additional Items
+Contestants may also bring the following items to their workstation. Contestants must bring these items to the practice session, and leave it on the workstation at the end of the practice session.
+
+* Printed Team Reference Document (Team Notebook)
+  * This document may contain up to 25 pages of reference materials, single-sided, letter or A4 size, with pages numbered in the upper right-hand corner and your university name and team name printed in the upper left-hand corner.
+  * Text and illustrations must be readable by a person with correctable eyesight without magnification from a distance of 1/2 meter.
+  * It may include hand-written comments and corrections on the fronts of pages only.
+1c:T84a,## Rules
+
+1. Wear the provided contest T-shirt as the outermost garment and the badge at all times, including during contests. 
+  * Contest T-shirts and badges will be distributed during the onsite registration.
+  * Jackets, undershirts, or any other clothing are allowed to be worn inside the provided contest T-shirt.
+2. All contestants are encouraged to wear shoes.
+3. Do not touch anything on the work station before the contest starts.
+4. Do not eat inside the Contest Hall. You can only drink plain water (use the provided drinking bottle provided by Huawei/Jump Trading) inside the Contest Hall.
+  * Snacks and other packet drinks are provided outside the Contest Hall. Please consume them outside.
+  * Do not bring any snacks or drinks of your own. Do not submit them on the dress rehearsal.
+5. Do not bring any electronic/communication devices.
+  * Laptops, tablets, keyboards, mice, cameras, calculators, digital dictionaries, USB memory sticks/cards, watches, radios, mobile phones, smartphones, earphones, headphones, pagers, and other electronic/communication devices are prohibited.
+  * Electronic medical aid that has to be worn by a contestant during the contest is permitted, but such an item needs to be (privately) declared during the registration.
+6. Please be considerate of other teams and compete fairly.
+  * A team may be **disqualified** if the team is found to be cheating. Cheating involves any attempt or activity by an individual or groups (team members and/or coach) to enhance or diminish their performance or other teams' performance by means other than actual ability related to the contest, including but not limited to efforts such as submitting a solution which is not their own, hacking (successful or not) the contest management system or other machines, dislodging extension cords, or other distracting behaviours. All teams should uphold the sportsmanship and the spirit of fair competition. 
+
+## Declaration
+
+I, on behalf of Team ______________________, declare that I have read and understood The 2025 Asia Pacific Championship contest rules and will obey them.
+
+Name:
+Signature:
+1d:T860,## Rules
+
+1. Wear the provided contest T-shirt as the outermost garment and the badge at all times, including during contests. 
+  * Contest T-shirts and badges will be distributed during the onsite registration.
+  * Jackets, undershirts, or any other clothing are allowed to be worn inside the provided contest T-shirt.
+2. Sandals are prohibited. All contestants are required to wear shoes.
+3. Do not touch anything on the work station before the contest starts.
+4. Do not eat inside the Contest Hall. You can only drink plain water (use the provided drinking bottle provided by Huawei/Jump Trading) inside the Contest Hall.
+  * Snacks and other packet drinks are provided outside the Contest Hall. Please consume them outside.
+  * Do not bring any snacks or drinks of your own. Do not submit them on the dress rehearsal.
+5. Do not bring any electronic/communication devices.
+  * Laptops, tablets, keyboards, mice, cameras, calculators, digital dictionaries, USB memory sticks/cards, watches, radios, mobile phones, smartphones, earphones, headphones, pagers, and other electronic/communication devices are prohibited.
+  * Electronic medical aid that has to be worn by a contestant during the contest is permitted, but such an item needs to be (privately) declared during the registration.
+6. Please be considerate of other teams and compete fairly.
+  * A team may be **disqualified** if the team is found to be cheating. Cheating involves any attempt or activity by an individual or groups (team members and/or coach) to enhance or diminish their performance or other teams' performance by means other than actual ability related to the contest, including but not limited to efforts such as submitting a solution which is not their own, hacking (successful or not) the contest management system or other machines, dislodging extension cords, or other distracting behaviours. All teams should uphold the sportsmanship and the spirit of fair competition. 
+
+## Declaration
+
+I, on behalf of Team ______________________, declare that I have read and understood The 2025 Asia Pacific Championship contest rules and will obey them.
+
+Name:
+Signature:
+9:["$","$L15",null,{"subfolderContentsArray":[{"title":"Registration","content":"## Team Invitation\n\nQualified teams have been promoted to the 2025 ICPC Asia Pacific Championship in the [ICPC global system](https://icpc.global/regionals/finder/APSEPC).\n\nThe coach of qualified teams have been contacted by the organiser to confirm the intention to participate and to follow up with the registration process.\n\n## Registration Fee\n\nAccepted teams need to pay a registration fee of **280 SGD** per team.\n\nDetailed instructions on how to pay (electronically) using SoCPay system have been emailed by Ms Irene Ong on Wed, 08 Jan 2025.\n\n## Invitation Letters\n\nAny team coach with member(s) that need Singapore visa and/or formal invitation letter (for budget/official leave application) should contact the RCD as soon as possible.\n\nOfficial invitation letters will be issued to teams who have formally accepted the invitation from Thu, 02 Jan 2025 onwards.\n","lastUpdated":"2025-01-13","directoryName":"registration","previousVersions":[{"date":"2025-01-02","content":"## Team Invitation\n\nQualified teams have been promoted to the 2025 ICPC Asia Pacific Championship in the [ICPC global system](https://icpc.global/regionals/finder/APSEPC).\n\nThe coach of qualified teams have been contacted by the organiser to confirm the intention to participate and to follow up with the registration process.\n\n## Registration Fee\n\n[Accepted teams](/competition/teams) need to pay a registration fee of 280 SGD (it is 200 USD - same as the 2024 ICPC Asia Pacific Championship - but with additional of 9% Singapore Goods and Servies Tax (GST), rounded down to nearest tenth after conversion to SGD) per team via [method TBC by Fri, 03 Jan 2025].\n\n## Invitation Letters\n\nAny team coach with member(s) that need Singapore visa and/or formal invitation letter (for budget/official leave application) should contact the RCD as soon as possible.\n\nOfficial invitation letters will be issued to teams who have formally accepted the invitation from Thu, 02 Jan 2025 onwards.\n"},{"date":"2024-12-14","content":"Qualified teams (the top side of each regionals above) will be automatically promoted to the contest in the ICPC global system. The coach of qualified teams will be contacted by the organiser to confirm the intention to participate and follow up with the registration process. This process is expected to be done by end Dec 2024 after ICPC Yokohama regionals and to be completed latest by mid Jan 2025.\n\nAccepted teams then need to pay a registration fee of 280 SGD (it is 200 USD - same as ICPC APAC Championship 2024 - but with additional of 9% Singapore Goods and Servies Tax (GST), rounded to nearest tenth after conversion to SGD) per team via [method TBC by end Dec 2024].\n\n"}]},{"title":"Contest Environment","content":"$16","lastUpdated":"2025-02-26","directoryName":"contest-env","previousVersions":[{"date":"2025-02-17","content":"$17"},{"date":"2025-02-16","content":"$18"},{"date":"2025-02-08","content":"$19"},{"date":"2025-02-03","content":"$1a"},{"date":"2025-02-02","content":"$1b"},{"date":"2024-12-14","content":"TBA.\n"}]},{"title":"Contest Rules","content":"$1c","lastUpdated":"2025-02-27","directoryName":"contest-rules","previousVersions":[{"date":"2025-02-26","content":"$1d"}]}],"year":"2025","pageTopTitle":"Competition","pageTopSlug":"competition","showSubfolderTitles":true}]

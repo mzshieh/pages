@@ -1,0 +1,22 @@
+{
+  "general": {
+    "order": 1,
+    "display_name": "General Information"
+  },
+  "hosts": {
+    "order": 2,
+    "display_name": "Hosts and Organizers"
+  },
+  "prizes": {
+    "order": 3,
+    "display_name": "Prizes"
+  },
+  "contact": {
+    "order": 4,
+    "display_name": "Contact"
+  },
+  "post-contest": {
+    "order": 5,
+    "display_name": "Post-Contest Update"
+  }
+}
