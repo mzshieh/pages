@@ -1,27 +1,18 @@
-
-
-
 [
   {
-    "Huawei (Diamond Multi-Regional Sponsor)": {
-    "size": 4,
-      "filename": "/assets/sponsors/huawei-logo.png"
-    }
-  },
-  {
-    "Jane Street (Platinum Multi-Regional Sponsor)": {
+    "Jane Street": {
       "size": 7,
       "filename": "/assets/sponsors/jane-street-logo.png"
     }
   },
   {
-    "Jump Trading (Gold Sponsor)": {
+    "Jump Trading": {
       "size": 5,
       "filename": "/assets/sponsors/jump-trading-logo.png"
     }
   },
   {
-    "JetBrains (Global Sponsor Programming Tools)": {
+    "JetBrains": {
       "size": 8,
       "filename": "/assets/sponsors/jetbrains-logo.png"
     }
