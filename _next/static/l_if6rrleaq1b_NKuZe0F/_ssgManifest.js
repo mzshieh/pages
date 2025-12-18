@@ -1,0 +1,1 @@
+self.__SSG_MANIFEST=new Set(["\u002Fchampionship\u002F[year]","\u002Fchampionship\u002F[year]\u002F[section]","\u002Fchampionship\u002F[year]\u002Fchangelogs","\u002Fchampionship\u002Flatest\u002F[...slug]"]);self.__SSG_MANIFEST_CB&&self.__SSG_MANIFEST_CB()
