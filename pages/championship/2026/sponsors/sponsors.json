@@ -22,17 +22,39 @@
     ]
   },
   {
-    "Local Sponsors": [
+    "Organizers": [
       {
-        "Taoyuan City Government": {
+        "Association of Taiwan Computer Programming Contest": {
           "size": 5,
-          "filename": "/assets/sponsors/taoyuan-city.png"
+          "filename": "/assets/sponsors/TCPC-logo.png"
         }
       },
       {
         "National Taipei University of Business": {
           "size": 5,
           "filename": "/assets/sponsors/ntub-logo.png"
+        }
+      }
+    ]
+  },
+  {
+    "Co-Organizers": [
+      {
+        "Taoyuan City Government": {
+           "size": 5,
+	   "filename": "/assets/sponsors/taoyuan-city.png"
+	}
+      },
+      {
+	"Ministry of Economic Affairs": {
+	  "size": 9,
+	  "filename": "/assets/sponsors/moea-tw.png"
+	}
+      }, 
+      {
+        "Ministry of Digital Affairs": {
+	  "size": 6,
+	  "filename": "/assets/sponsors/moda-tw.png"
         }
       }
     ]
