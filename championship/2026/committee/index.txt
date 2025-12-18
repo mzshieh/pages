@@ -1,0 +1,741 @@
+1:"$Sreact.fragment"
+2:I[5668,["619","static/chunks/619-ba102abea3e3d0e4.js","698","static/chunks/698-6bd989f1fab99d5c.js","239","static/chunks/239-1013213b0532a1ea.js","899","static/chunks/899-b6fc7e06ffaa2c04.js","177","static/chunks/app/layout-005cb658c9147c89.js"],"ThemeProvider"]
+3:I[8732,["619","static/chunks/619-ba102abea3e3d0e4.js","698","static/chunks/698-6bd989f1fab99d5c.js","239","static/chunks/239-1013213b0532a1ea.js","899","static/chunks/899-b6fc7e06ffaa2c04.js","177","static/chunks/app/layout-005cb658c9147c89.js"],"default"]
+4:I[9766,[],""]
+5:I[8924,[],""]
+6:I[2619,["619","static/chunks/619-ba102abea3e3d0e4.js","345","static/chunks/app/not-found-8baac2b181c69ac9.js"],""]
+7:I[9926,["619","static/chunks/619-ba102abea3e3d0e4.js","698","static/chunks/698-6bd989f1fab99d5c.js","239","static/chunks/239-1013213b0532a1ea.js","899","static/chunks/899-b6fc7e06ffaa2c04.js","177","static/chunks/app/layout-005cb658c9147c89.js"],"default"]
+a:I[4431,[],"OutletBoundary"]
+c:I[5278,[],"AsyncMetadataOutlet"]
+e:I[4431,[],"ViewportBoundary"]
+10:I[4431,[],"MetadataBoundary"]
+11:"$Sreact.suspense"
+13:I[7150,[],""]
+:HL["/_next/static/media/e4af272ccee01ff0-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/css/0f7d159e7cbf07ca.css","style"]
+:HL["/_next/static/css/3c8fc84456a26512.css","style"]
+:HL["/_next/static/css/01fc40d133734f3c.css","style"]
+:HL["/_next/static/css/0c04faee0818f8e8.css","style"]
+0:{"P":null,"b":"E1iCOJdOsKJhqUmB6MY4w","p":"","c":["","championship","2026","committee",""],"i":false,"f":[[["",{"children":["championship",{"children":[["year","2026","d"],{"children":[["section","committee","d"],{"children":["__PAGE__",{}]}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/0f7d159e7cbf07ca.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","suppressHydrationWarning":true,"children":[["$","head",null,{"children":[["$","meta",null,{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","link",null,{"rel":"icon","type":"image/png","href":"/favicon/favicon-96x96.png","sizes":"96x96"}],["$","link",null,{"rel":"icon","type":"image/svg+xml","href":"/favicon/favicon.svg"}],["$","link",null,{"rel":"shortcut icon","href":"/favicon.ico"}],["$","link",null,{"rel":"apple-touch-icon","sizes":"180x180","href":"/favicon/apple-touch-icon.png"}],["$","meta",null,{"name":"apple-mobile-web-app-title","content":"APAC'25"}],["$","link",null,{"rel":"manifest","href":"/favicon/site.webmanifest"}]]}],["$","body",null,{"className":"__className_f367f3 bg dark:bg-dark bg-fixed dark:text-slate-300","children":["$","$L2",null,{"children":[["$","$L3",null,{}],["$","div",null,{"className":"min-h-screen my-10","suppressHydrationWarning":true,"children":["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","div",null,{"className":"container mx-auto px-5 xl:w-3/4 overflow-x-clip","style":{"maxWidth":"1200px"},"children":["$","div",null,{"className":"flex flex-col items-center justify-center min-h-[60vh] text-center py-16","children":[["$","div",null,{"className":"mb-8","children":[["$","h1",null,{"className":"text-6xl font-bold text-text-header-secondary mb-4","children":"404"}],["$","h2",null,{"className":"text-2xl font-semibold text-gray-600 dark:text-gray-300 mb-4","children":"Page Not Found"}],["$","p",null,{"className":"text-lg text-gray-500 dark:text-gray-400 max-w-md mx-auto mb-8","children":"Oops! The page you're looking for doesn't exist or has been moved."}]]}],["$","div",null,{"className":"flex flex-col sm:flex-row gap-4 items-center","children":["$","$L6",null,{"href":"/championship/latest/information","className":"px-6 py-3 text-lg font-medium rounded-lg transition-colors dark:text-white border border-text-header-secondary dark:border-primaryAccent-dark bg-primaryAccent/10 dark:bg-primaryAccent-dark/10 text-text-header-secondary hover:bg-primaryAccent/20 dark:hover:bg-primaryAccent-dark/20","children":"See the current championship"}]}]]}]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","$L7",null,{}]]}]}]]}]]}],{"children":["championship",["$","$1","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["year","2026","d"],["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/3c8fc84456a26512.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],"$L8"]}],{"children":[["section","committee","d"],["$","$1","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L9",[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/01fc40d133734f3c.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/_next/static/css/0c04faee0818f8e8.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","$La",null,{"children":["$Lb",["$","$Lc",null,{"promise":"$@d"}]]}]]}],{},null,false]},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$Le",null,{"children":"$Lf"}],["$","meta",null,{"name":"next-size-adjust","content":""}]],["$","$L10",null,{"children":["$","div",null,{"hidden":true,"children":["$","$11",null,{"fallback":null,"children":"$L12"}]}]}]]}],false]],"m":"$undefined","G":["$13",[]],"s":false,"S":true}
+14:I[2995,["619","static/chunks/619-ba102abea3e3d0e4.js","698","static/chunks/698-6bd989f1fab99d5c.js","617","static/chunks/617-703b27bf1f764efa.js","239","static/chunks/239-1013213b0532a1ea.js","651","static/chunks/app/championship/%5Byear%5D/layout-b1c9c87f1195d17c.js"],"default"]
+8:["$","$L14",null,{"year":"2026","children":["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]}]
+f:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+b:null
+d:{"metadata":[["$","title","0",{"children":"The ICPC Asia Pacific Championship"}],["$","meta","1",{"name":"description","content":"The official website for the The ICPC Asia Pacific Championship"}],["$","meta","2",{"property":"og:title","content":"The ICPC Asia Pacific Championship"}],["$","meta","3",{"property":"og:description","content":"The official website for the The ICPC Asia Pacific Championship"}],["$","meta","4",{"property":"og:image","content":"https://people.cs.nycu.edu.tw/~linlys/icpcapac2026/assets/icpc-logo.png"}],["$","meta","5",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","6",{"name":"twitter:title","content":"The ICPC Asia Pacific Championship"}],["$","meta","7",{"name":"twitter:description","content":"The official website for the The ICPC Asia Pacific Championship"}],["$","meta","8",{"name":"twitter:image","content":"https://people.cs.nycu.edu.tw/~linlys/icpcapac2026/assets/icpc-logo.png"}]],"error":null,"digest":"$undefined"}
+12:"$d:metadata"
+15:I[140,["458","static/chunks/e58627ac-2cdcbe78189183e3.js","619","static/chunks/619-ba102abea3e3d0e4.js","698","static/chunks/698-6bd989f1fab99d5c.js","617","static/chunks/617-703b27bf1f764efa.js","59","static/chunks/59-cfe495d6d0cd8696.js","915","static/chunks/915-613c8b44be5f4fa9.js","825","static/chunks/825-61a7974cafe2e343.js","656","static/chunks/app/championship/%5Byear%5D/%5Bsection%5D/page-aed761722fd5f5ea.js"],"default"]
+16:T12e1,## Organizing Committees
+
+<table>
+  <thead>
+    <tr>
+      <th>Role</th>
+      <th>Name</th>
+      <th>Affiliation</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>ICPC Asia Director</strong></td>
+      <td>Professor C Jinshong Hwang</td>
+      <td><a href="https://icpcasia.wp.txstate.edu/">ICPC Asia</a></td>
+    </tr>
+    <tr>
+      <td><strong>ICPC Asia Pacific Director</strong></td>
+      <td>Professor Katsuhiko Kakehi</td>
+      <td><a href="mailto:kakehi@waseda.jp">Waseda University</a></td>
+    </tr>
+    <tr>
+      <td><strong>2025 ICPC Asia Pacific Championship Director</strong></td>
+      <td>Associate Professor Steven Halim</td>
+      <td><a href="https://www.comp.nus.edu.sg/~stevenha">National University of Singapore</a></td>
+    </tr>
+    <tr>
+      <td><strong>Deputy Director</strong></td>
+      <td>Associate Professor Tan Sun Teck</td>
+      <td><a href="https://www.comp.nus.edu.sg/cs/people/tanst/">National University of Singapore</a></td>
+    </tr>
+    <tr>
+      <td rowspan=3><strong>Administration</strong></td>
+      <td>Irene Ong Hwei Nee</td>
+      <td>SGP, <a href="mailto:ionghn@nus.edu.sg">National University of Singapore</a></td>
+    </tr>
+    <tr>
+      <td>Teo Pei Pei</td>
+      <td>SGP, National University of Singapore</td>
+    </tr>
+    <tr>
+      <td>Grace Suryani Tioso</td>
+      <td>SGP</td>
+    </tr>
+    <tr>
+      <td rowspan=6><strong>International Judge Committee</strong></td>
+      <td>Jonathan Irvin Gunawan (chief judge)</td>
+      <td>SGP, Meta</td>
+    </tr>
+    <tr>
+      <td>Mitsuru Kusumoto (member)</td>
+      <td>JPN, Monoxer</td>
+    </tr>
+    <tr>
+      <td>Dr Ammar Fathin Sabili (member)</td>
+      <td>IDN, Universitas Indonesia</td>
+    </tr>
+    <tr>
+      <td>Shogo Murai (member)</td>
+      <td>JPN, Preferred Networks, Inc</td>
+    </tr>
+    <tr>
+      <td>Thanh Trung Nguyen (member)</td>
+      <td>VNM, HRT</td>
+    </tr>
+    <tr>
+      <td>Pikatan Arya Bramajati (member)</td>
+      <td>IDN, Universitas Indonesia</td>
+    </tr>
+    <tr>
+      <td rowspan=5><strong>International Technical Committee</strong></td>
+      <td>Associate Professor Rie Shigetomi Yamaguchi (chair)</td>
+      <td>JPN, <a href="https://www.u-tokyo.ac.jp/en/">The University of Tokyo</a></td>
+    </tr>
+    <tr>
+      <td>Hiroki Sato (member)</td>
+      <td>JPN, Google</td>
+    </tr>
+    <tr>
+      <td>Yu Sugawara (member)</td>
+      <td>JPN, Google</td>
+    </tr>
+    <tr>
+      <td>Andreas Martin (Printing Coordinator)</td>
+      <td>IDN, Global Tiket Network (tiket.com)</td>
+    </tr>
+    <tr>
+      <td>Vio Albert Ferdinand (Balloon Coordinator)</td>
+      <td>IDN, GDP Labs</td>
+    </tr>
+    <tr>
+      <td><strong>Contest Operations</strong></td>
+      <td>Long Vuong Hoang (chair)</td>
+      <td>VNM, Pendle</td>
+    </tr>
+    <tr>
+      <td rowspan=2><strong>Host Technical Committee</strong></td>
+      <td>Lai Zit Seng (Principal IT Architect)</td>
+      <td>SGP, National University of Singapore</td>
+    </tr>
+    <tr>
+      <td>Musa Bin Hashim (SoC IT Unit)</td>
+      <td>SGP, National University of Singapore</td>
+    </tr>
+    <tr>
+      <td><strong>Host Volunteer Coordinator</strong></td>
+      <td>Dr Jithin Vachery</td>
+      <td>SGP, <a href="https://www.comp.nus.edu.sg/cs/people/jithin/">National University of Singapore</a></td>
+    </tr>
+    <tr>
+      <td rowspan=4><strong>Ceremonies (Opening/Closing)</strong></td>
+      <td>Dr Adi Yoga Sidi Prabawa (chair)</td>
+      <td>IDN, <a href="https://www.comp.nus.edu.sg/~adi-yoga/">National University of Singapore</a></td>
+    </tr>
+    <tr>
+      <td>Dr Ashish Deepak Dandekar (member)</td>
+      <td>SGP, National University of Singapore</td>
+    </tr>
+    <tr>
+      <td>Dr Eric Han Liang Wee (member)</td>
+      <td>SGP, National University of Singapore</td>
+    </tr>
+    <tr>
+      <td>Dr Daren Ler Shan Wen (member)</td>
+      <td>SGP, <a href="https://www.comp.nus.edu.sg/cs/people/dler/">National University of Singapore</a></td>
+    </tr>
+    <tr>
+      <td><strong>Transportation</strong></td>
+      <td>Dr Daren Ler Shan Wen</td>
+      <td>SGP, <a href="https://www.comp.nus.edu.sg/cs/people/dler/">National University of Singapore</a></td>
+    </tr>
+    <tr>
+      <td rowspan=2><strong>Website</strong></td>
+      <td>Felicia Limanta</td>
+      <td>IDN, GDP Labs</td>
+    </tr>
+    <tr>
+      <td>Vio Albert Ferdinand</td>
+      <td>IDN, GDP Labs</td>
+    </tr>
+    <tr>
+      <td><strong>Social Media</strong></td>
+      <td>Felicia Limanta</td>
+      <td>IDN, GDP Labs</td>
+    </tr>
+    <tr>
+      <td><strong>Graphic Designer</strong></td>
+      <td>Felicia Limanta</td>
+      <td>IDN, GDP Labs</td>
+    </tr>
+    <tr>
+      <td><strong>Livestream</strong></td>
+      <td>Nicholas Russell Saerang</td>
+      <td>IDN, PSA Singapore</td>
+    </tr>
+  </tbody>
+</table>
+17:T102d,# Organizing Committees
+
+<table>
+  <thead>
+    <tr>
+      <th>Role</th>
+      <th>Name</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>ICPC Asia Director</strong></td>
+      <td>
+        <ul>
+          <li><a href="https://icpcasia.wp.txstate.edu/">Professor C Jinshong Hwang</a></li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td><strong>ICPC Asia Pacific Director</strong></td>
+      <td>
+        <ul>
+          <li>Professor Katsuhiko Kakehi (<a href="mailto:kakehi@waseda.jp">kakehi@waseda.jp</a>)</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td><strong>2025 ICPC Asia Pacific Championship Director</strong></td>
+      <td>
+        <ul>
+          <li><a href="https://www.comp.nus.edu.sg/~stevenha">Associate Professor Steven Halim</a> (<a href="mailto:dcssh@nus.edu.sg">dcssh@nus.edu.sg</a>)</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td><strong>Deputy Director</strong></td>
+      <td>
+        <ul>
+          <li><a href="https://www.comp.nus.edu.sg/cs/people/tanst/">Associate Professor Tan Sun Teck</a> (<a href="mailto:tanst@comp.nus.edu.sg">tanst@comp.nus.edu.sg</a>)</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td><strong>Administration</strong></td>
+      <td>
+        <ul>
+          <li>Irene Ong Hwei Nee (<a href="mailto:ionghn@nus.edu.sg">ionghn@nus.edu.sg</a>)</li>
+          <li>Teo Pei Pei</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td><strong>International Judge Committee</strong></td>
+      <td>
+        <ul>
+          <li>Jonathan Irvin Gunawan (chief judge)</li>
+          <li>Mitsuru Kusumoto (member)</li>
+          <li>Ammar Fathin Sabili (member)</li>
+          <li>Shogo Murai (member)</li>
+          <li>Thanh Trung Nguyen (member)</li>
+          <li>Pikatan Arya Bramajati (member)</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td><strong>International Technical Committee</strong></td>
+      <td>
+        <ul>
+          <li>Associate Professor Rie Shigetomi Yamaguchi, The University of Tokyo (chair)</li>
+          <li>Hiroki Sato (member)</li>
+          <li>Yu Sugawara (member)</li>
+          <li>Andreas Martin (Printing Coordinator)</li>
+          <li>Vio Albert Ferdinand (Balloon Coordinator)</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td><strong>Contest Operations</strong></td>
+      <td>
+        <ul>
+          <li>Long Vuong Hoang (chair)</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td><strong>Host Technical Committee</strong></td>
+      <td>
+        <ul>
+          <li>Lai Zit Seng (Principal IT Architect)</li>
+          <li>Musa Bin Hashim (SoC IT Unit)</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td><strong>Host Volunteer Coordinator</strong></td>
+      <td>
+        <ul>
+          <li><a href="https://www.comp.nus.edu.sg/cs/people/jithin/">Dr Jithin Vachery</a></li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td><strong>Ceremonies (Opening/Closing)</strong></td>
+      <td>
+        <ul>
+          <li><a href="https://www.comp.nus.edu.sg/~adi-yoga/">Dr Adi Yoga Sidi Prabawa</a></li>
+          <li>Dr Ashish Deepak Dandekar (member)</li>
+          <li>Dr Eric Han Liang Wee (member)</li>
+          <li>Dr Daren Ler Shan Wen (member)</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td><strong>Transportation</strong></td>
+      <td>
+        <ul>
+          <li><a href="https://www.comp.nus.edu.sg/cs/people/dler/">Dr Daren Ler Shan Wen</a></li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td><strong>Website</strong></td>
+      <td>
+        <ul>
+          <li>Felicia Limanta</li>
+          <li>Vio Albert Ferdinand</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td><strong>Social Media</strong></td>
+      <td>
+        <ul>
+          <li>Felicia Limanta</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td><strong>Graphic Designer</strong></td>
+      <td>
+        <ul>
+          <li>Felicia Limanta</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td><strong>Livestream</strong></td>
+      <td>
+        <ul>
+          <li>Nicholas Russell Saerang</li>
+        </ul>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+18:Tf48,# Organizing Committees
+
+<table>
+  <thead>
+    <tr>
+      <th>Role</th>
+      <th>Name</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>ICPC Asia Director</strong></td>
+      <td>
+        <ul>
+          <li><a href="https://icpcasia.wp.txstate.edu/">Professor C Jinshong Hwang</a></li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td><strong>ICPC Asia Pacific Director</strong></td>
+      <td>
+        <ul>
+          <li>Professor Katsuhiko Kakehi (<a href="mailto:kakehi@waseda.jp">kakehi@waseda.jp</a>)</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td><strong>2025 ICPC Asia Pacific Championship Director</strong></td>
+      <td>
+        <ul>
+          <li><a href="https://www.comp.nus.edu.sg/~stevenha">Associate Professor Steven Halim</a> (<a href="mailto:dcssh@nus.edu.sg">dcssh@nus.edu.sg</a>)</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td><strong>Deputy Director</strong></td>
+      <td>
+        <ul>
+          <li><a href="https://www.comp.nus.edu.sg/cs/people/tanst/">Associate Professor Tan Sun Teck</a> (<a href="mailto:tanst@comp.nus.edu.sg">tanst@comp.nus.edu.sg</a>)</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td><strong>Administration</strong></td>
+      <td>
+        <ul>
+          <li>Irene Ong Hwei Nee (<a href="mailto:ionghn@nus.edu.sg">ionghn@nus.edu.sg</a>)</li>
+          <li>Teo Pei Pei</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td><strong>International Judge Committee</strong></td>
+      <td>
+        <ul>
+          <li><a href="http://codeforces.com/profile/jonathanirvings">Jonathan Irvin Gunawan</a> (chief judge)</li>
+          <li>The list of other Judge members is not shown until the Championship is over</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td><strong>International Technical Committee</strong></td>
+      <td>
+        <ul>
+          <li>Associate Professor Rie Shigetomi Yamaguchi, The University of Tokyo (chair)</li>
+          <li>Hiroki Sato (member)</li>
+          <li>Yu Sugawara (member)</li>
+          <li>Andreas Martin (Printing Coordinator)</li>
+          <li>Vio Albert Ferdinand (Balloon Coordinator)</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td><strong>Contest Operations</strong></td>
+      <td>
+        <ul>
+          <li>Long Vuong Hoang (chair)</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td><strong>Host Technical Committee</strong></td>
+      <td>
+        <ul>
+          <li>Lai Zit Seng (Principal IT Architect)</li>
+          <li>Musa Bin Hashim (SoC IT Unit)</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td><strong>Host Volunteer Coordinator</strong></td>
+      <td>
+        <ul>
+          <li><a href="https://www.comp.nus.edu.sg/cs/people/jithin/">Dr Jithin Vachery</a></li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td><strong>Ceremonies (Opening/Closing)</strong></td>
+      <td>
+        <ul>
+          <li><a href="https://www.comp.nus.edu.sg/~adi-yoga/">Dr Adi Yoga Sidi Prabawa</a></li>
+          <li>Dr Ashish Deepak Dandekar (member)</li>
+          <li>Dr Eric Han Liang Wee (member)</li>
+          <li>Dr Daren Ler Shan Wen (member)</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td><strong>Transportation</strong></td>
+      <td>
+        <ul>
+          <li><a href="https://www.comp.nus.edu.sg/cs/people/dler/">Dr Daren Ler Shan Wen</a></li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td><strong>Website</strong></td>
+      <td>
+        <ul>
+          <li>Felicia Limanta</li>
+          <li>Vio Albert Ferdinand</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td><strong>Social Media</strong></td>
+      <td>
+        <ul>
+          <li>Felicia Limanta</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td><strong>Livestream</strong></td>
+      <td>
+        <ul>
+          <li>Nicholas Russell Saerang</li>
+        </ul>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+19:Te9a,# Organizing Committees
+
+<table>
+  <thead>
+    <tr>
+      <th>Role</th>
+      <th>Name</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>ICPC Asia Director</strong></td>
+      <td>
+        <ul>
+          <li><a href="https://icpcasia.wp.txstate.edu/">Professor C Jinshong Hwang</a></li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td><strong>ICPC Asia Pacific Director</strong></td>
+      <td>
+        <ul>
+          <li>Professor Katsuhiko Kakehi (<a href="mailto:kakehi@waseda.jp">kakehi@waseda.jp</a>)</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td><strong>2025 ICPC Asia Pacific Championship Director</strong></td>
+      <td>
+        <ul>
+          <li><a href="https://www.comp.nus.edu.sg/~stevenha">Associate Professor Steven Halim</a> (<a href="mailto:dcssh@nus.edu.sg">dcssh@nus.edu.sg</a>)</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td><strong>Deputy Director</strong></td>
+      <td>
+        <ul>
+          <li><a href="https://www.comp.nus.edu.sg/cs/people/tanst/">Associate Professor Tan Sun Teck</a> (<a href="mailto:tanst@comp.nus.edu.sg">tanst@comp.nus.edu.sg</a>)</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td><strong>Administration</strong></td>
+      <td>
+        <ul>
+          <li>Irene Ong Hwei Nee (<a href="mailto:ionghn@nus.edu.sg">ionghn@nus.edu.sg</a>)</li>
+          <li>Teo Pei Pei</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td><strong>International Judge Committee</strong></td>
+      <td>
+        <ul>
+          <li><a href="http://codeforces.com/profile/jonathanirvings">Jonathan Irvin Gunawan</a> (chief judge)</li>
+          <li>The list of other Judge members is not shown until the Championship is over</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td><strong>International Technical Committee</strong></td>
+      <td>
+        <ul>
+          <li>Associate Professor Rie Shigetomi Yamaguchi, The University of Tokyo (chair)</li>
+          <li>Hiroki Sato (member)</li>
+          <li>Yu Sugawara (member)</li>
+          <li>Andreas Martin (Printing Coordinator)</li>
+          <li>Vio Albert Ferdinand (Balloon Coordinator)</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td><strong>Contest Operations</strong></td>
+      <td>
+        <ul>
+          <li>Long Vuong Hoang (chair)</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td><strong>Host Technical Committee</strong></td>
+      <td>
+        <ul>
+          <li>Musa Bin Hashim (SoC IT Unit)</li>
+          <li>Other Members (TBC)</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td><strong>Host Volunteer Coordinator</strong></td>
+      <td>
+        <ul>
+          <li><a href="https://www.comp.nus.edu.sg/cs/people/jithin/">Dr Jithin Vachery</a></li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td><strong>Ceremonies (Opening/Closing)</strong></td>
+      <td>
+        <ul>
+          <li><a href="https://www.comp.nus.edu.sg/~adi-yoga/">Dr Adi Yoga Sidi Prabawa</a></li>
+          <li>Dr Ashish Deepak Dandekar (member)</li>
+          <li>Dr Eric Han Liang Wee (member)</li>
+          <li>Dr Daren Ler Shan Wen (member)</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td><strong>Transportation</strong></td>
+      <td>
+        <ul>
+          <li><a href="https://www.comp.nus.edu.sg/cs/people/dler/">Dr Daren Ler Shan Wen</a></li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td><strong>Website</strong></td>
+      <td>
+        <ul>
+          <li>Felicia Limanta</li>
+          <li>Vio Albert Ferdinand</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td><strong>Social Media</strong></td>
+      <td>
+        <ul>
+          <li>Felicia Limanta</li>
+        </ul>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+1a:Tdfd,# Organizing Committees
+
+<table>
+    <thead>
+        <tr>
+            <th>Role</th>
+            <th>Name</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td><strong>ICPC Asia Director</strong></td>
+            <td>
+                <ul>
+                    <li>Professor C Jinshong Hwang</li>
+                </ul>
+            </td>
+        </tr>
+        <tr>
+            <td><strong>ICPC Asia Pacific Director</strong></td>
+            <td>
+                <ul>
+                    <li>Professor Katsuhiko Kakehi (<a href="mailto:kakehi@waseda.jp">kakehi@waseda.jp</a>)</li>
+                </ul>
+            </td>
+        </tr>
+        <tr>
+            <td><strong>2025 ICPC Asia Pacific Championship Director</strong></td>
+            <td>
+                <ul>
+                    <li>Associate Professor Steven Halim (<a href="mailto:dcssh@nus.edu.sg">dcssh@nus.edu.sg</a>)</li>
+                </ul>
+            </td>
+        </tr>
+        <tr>
+            <td><strong>Deputy Director</strong></td>
+            <td>
+                <ul>
+                    <li>Associate Professor Tan Sun Teck (<a href="mailto:tanst@comp.nus.edu.sg">tanst@comp.nus.edu.sg</a>)</li>
+                </ul>
+            </td>
+        </tr>
+        <tr>
+            <td><strong>Administration</strong></td>
+            <td>
+                <ul>
+                    <li>Irene Ong Hwei Nee (<a href="mailto:ionghn@nus.edu.sg">ionghn@nus.edu.sg</a>)</li>
+                    <li>Teo Pei Pei</li>
+                </ul>
+            </td>
+        </tr>
+        <tr>
+            <td><strong>International Judge Committee</strong></td>
+            <td>
+                <ul>
+                    <li>Jonathan Irvin Gunawan (chief judge)</li>
+                    <li>Other Judge Members (TBC)</li>
+                </ul>
+            </td>
+        </tr>
+        <tr>
+            <td><strong>International Technical Committee</strong></td>
+            <td>
+                <ul>
+                    <li>Associate Professor Rie Shigetomi Yamaguchi, The University of Tokyo (chair)</li>
+                    <li>Hiroki Sato (member)</li>
+                    <li>Yu Sugawara (member)</li>
+                </ul>
+            </td>
+        </tr>
+        <tr>
+            <td><strong>Host Technical Committee</strong></td>
+            <td>
+                <ul>
+                    <li>Musa Bin Hashim (SoC IT Unit)</li>
+                    <li>Other Members (TBC)</li>
+                </ul>
+            </td>
+        </tr>
+        <tr>
+            <td><strong>Host Volunteer Coordinator</strong></td>
+            <td>
+                <ul>
+                    <li>Dr Jithin Vachery</li>
+                </ul>
+            </td>
+        </tr>
+        <tr>
+            <td><strong>Ceremonies (Opening/Closing)</strong></td>
+            <td>
+                <ul>
+                    <li>Dr Adi Yoga Sidi Prabawa</li>
+                </ul>
+            </td>
+        </tr>
+        <tr>
+            <td><strong>Transportation</strong></td>
+            <td>
+                <ul>
+                    <li>Dr Daren Ler Shan Wen</li>
+                </ul>
+            </td>
+        </tr>
+        <tr>
+            <td><strong>Website</strong></td>
+            <td>
+                <ul>
+                    <li>Felicia Limanta</li>
+                </ul>
+            </td>
+        </tr>
+        <tr>
+            <td><strong>Publicity</strong></td>
+            <td>
+                <ul>
+                    <li>SoC Communications (TBC)</li>
+                </ul>
+            </td>
+        </tr>
+    </tbody>
+</table>
+9:["$","$L15",null,{"subfolderContentsArray":[{"title":"Committee","content":"$16","lastUpdated":"2025-03-10","directoryName":"committee","previousVersions":[{"date":"2025-03-01","content":"$17"},{"date":"2025-02-25","content":"$18"},{"date":"2025-01-13","content":"$19"},{"date":"2024-12-14","content":"$1a"}]}],"year":"2026","pageTopTitle":"Committee","pageTopSlug":"committee","showSubfolderTitles":false}]
