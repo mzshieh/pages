@@ -19,12 +19,16 @@
     "order": 5,
     "display_name": "Schedule"
   },
-  "travel": {
+  "venue": {
     "order": 6,
+    "display_name": "Venue"
+  },
+  "travel": {
+    "order": 7,
     "display_name": "Travel"
   },
   "committee": {
-    "order": 7,
+    "order": 8,
     "display_name": "Committee"
   }
 }
