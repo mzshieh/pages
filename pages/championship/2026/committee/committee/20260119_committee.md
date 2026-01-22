@@ -40,7 +40,7 @@ Rie Shigetomi Yamaguchi, The University of Tokyo, Japan
 - Jinn-Shyong Yang, National Taipei University of Business, Taiwan
 
 #### Members
-- Yu-Shiang Lin, National Yang Ming Chiao Tung University, Taiwan
+- Yu-Hsiang Lin, National Yang Ming Chiao Tung University, Taiwan
 - Yi-Ting Shih, National Yang Ming Chiao Tung University, Taiwan
 - Ming-Yu Huang, National Yang Ming Chiao Tung University, Taiwan
 
