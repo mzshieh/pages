@@ -18,6 +18,12 @@
           "size": 10,
           "filename": "/assets/sponsors/jetbrains-logo.png"
         }
+      },
+      {
+        "HRT": {
+          "size": 5,
+          "filename": "/assets/sponsors/hrt-logo.svg"
+        }
       }
     ]
   },

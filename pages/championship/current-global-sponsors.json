@@ -1,20 +1,26 @@
 [
   {
     "Jane Street": {
-      "size": 7,
+      "size": 8,
       "filename": "/assets/sponsors/jane-street-logo.png"
     }
   },
   {
     "Jump Trading": {
-      "size": 5,
+      "size": 6,
       "filename": "/assets/sponsors/jump-trading-logo.png"
     }
   },
   {
     "JetBrains": {
-      "size": 8,
+      "size": 9,
       "filename": "/assets/sponsors/jetbrains-logo.png"
+    }
+  },
+  {
+    "HRT": {
+      "size": 5,
+      "filename": "/assets/sponsors/hrt-logo.svg"
     }
   }
 ]
