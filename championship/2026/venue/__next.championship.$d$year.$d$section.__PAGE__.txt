@@ -1,0 +1,8 @@
+1:"$Sreact.fragment"
+2:I[62591,["/_next/static/chunks/4c58295f12dbf11d.js","/_next/static/chunks/948ee86c422eff55.js","/_next/static/chunks/211d2e265169f309.js","/_next/static/chunks/788336a5028e456a.js","/_next/static/chunks/8655ebd77eaf16b2.js","/_next/static/chunks/04f01ecfbc22e762.js","/_next/static/chunks/d237dd9a0c9bef65.js"],"default"]
+3:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/d2be314c3ece3fbe.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+:HL["/_next/static/chunks/cfab93335990e1a5.css","style"]
+:HL["/_next/static/chunks/f6711f51ad236bba.css","style"]
+0:{"buildId":"wlUPUNNi65Qr_lj9ccMPU","rsc":["$","$1","c",{"children":[["$","$L2",null,{"subfolderContentsArray":[{"title":"Venue","content":"[Taoyuan MESSE](https://www.messetaoyuan.com.tw/)\n\n","lastUpdated":"2025-12-18","directoryName":"venue"}],"year":"2026","pageTopTitle":"Venue","pageTopSlug":"venue","showSubfolderTitles":false}],[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/cfab93335990e1a5.css","precedence":"next"}],["$","link","1",{"rel":"stylesheet","href":"/_next/static/chunks/f6711f51ad236bba.css","precedence":"next"}],["$","script","script-0",{"src":"/_next/static/chunks/04f01ecfbc22e762.js","async":true}],["$","script","script-1",{"src":"/_next/static/chunks/d237dd9a0c9bef65.js","async":true}]],["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

@@ -1,0 +1,70 @@
+1:"$Sreact.fragment"
+2:I[62591,["/_next/static/chunks/4c58295f12dbf11d.js","/_next/static/chunks/948ee86c422eff55.js","/_next/static/chunks/211d2e265169f309.js","/_next/static/chunks/788336a5028e456a.js","/_next/static/chunks/8655ebd77eaf16b2.js","/_next/static/chunks/04f01ecfbc22e762.js","/_next/static/chunks/d237dd9a0c9bef65.js"],"default"]
+c:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/d2be314c3ece3fbe.js"],"OutletBoundary"]
+d:"$Sreact.suspense"
+:HL["/_next/static/chunks/cfab93335990e1a5.css","style"]
+:HL["/_next/static/chunks/f6711f51ad236bba.css","style"]
+3:T6aa,These are the list of important venues for this event:
+
+1. [Singapore Changi Airport](https://www.changiairport.com/) (Changi)
+2. Main contest building: NUS [COM3](https://com3.comp.nus.edu.sg/) building (Global and Local Sponsors will have dedicated rooms)
+3. ICPC Asia Pacific Championship 2025 Approved Hotels (visit [Accommodations](/championship/2025/travel/accomodations/) page for more details). Transportation back-and-forth between Airport/Contest Venue/These Hotels is provided. 
+     - [RELC International Hotel](https://www.relcih.com.sg/en)
+     - [Park Avenue Rochester Hotel](https://parkavenuegroup.com/property/singapore-rochester-parkavenue/)
+4. Ceremony venue: NUS [University Cultural Centre](https://uci.nus.edu.sg/campus-life/university-cultural-centre/) (UCC)
+5. The contest venue: [COM3 Multipurpose Hall (COM3-01-MPH 1+2+3) + adjoining room: Seminar Room 13 (ALC) (COM3-01-22)](https://cms-wp-dev2.d2.comp.nus.edu.sg/fbs/images/COM3_01.jpg) (with webcast connection between the two rooms)
+6. Coach room during the contest: [COM3 Meeting Room 24+25 (COM3-2-MR24 and MR25)](https://cms-wp-dev2.d2.comp.nus.edu.sg/fbs/images/COM3_02.jpg).
+7. Dinner courtesy of Jane Street venue: [The Ballroom at the Fullerton Hotel](https://www.fullertonhotels.com/fullerton-hotel-singapore/meetings-and-events/the-ballroom)
+8. Excursion venue: [Universal Studios Singapore](https://www.rwsentosa.com/en/attractions/universal-studios-singapore)
+9. For medical emergencies: [University Health Centre](https://www.nus.edu.sg/uhc)  
+   *(PS: Participants are encouraged to have a Worldwide Medical Insurance coverage).*
+  
+Notes:
+"COM - $X$ - $Y$ " means on NUS building COM3, floor $X$, and room $Y$.
+4:T637,These are the list of important venues for this event:
+
+1. [Singapore Changi Airport](https://www.changiairport.com/) (Changi)
+2. Main contest building: NUS [COM3](https://com3.comp.nus.edu.sg/) building (Global and Local Sponsors will have dedicated rooms)
+3. ICPC Asia Pacific Championship 2025 Approved Hotels (visit [Accommodations](/championship/2025/travel/accomodations/) page for more details). Transportation back-and-forth between Airport/Contest Venue/These Hotels is provided. 
+     - [RELC International Hotel](https://www.relcih.com.sg/en)
+     - [Park Avenue Rochester Hotel](https://parkavenuegroup.com/property/singapore-rochester-parkavenue/)
+4. Ceremony venue: NUS [University Cultural Centre](https://uci.nus.edu.sg/campus-life/university-cultural-centre/)
+5. The contest venue: [COM3 Multipurpose Hall (COM3-01-MPH 1+2+3) + adjoining room: Seminar Room 13 (ALC) (COM3-01-22)](https://cms-wp-dev2.d2.comp.nus.edu.sg/fbs/images/COM3_01.jpg) (with webcast connection between the two rooms)
+6. Coach room during the contest: [COM3-2-MR24 and MR25](https://cms-wp-dev2.d2.comp.nus.edu.sg/fbs/images/COM3_02.jpg)
+7. Dinner courtesy of Jane Street venue: [The Ballroom at the Fullerton Hotel](https://www.fullertonhotels.com/fullerton-hotel-singapore/meetings-and-events/the-ballroom)
+8. Excursion venue: [Universal Studios Singapore](https://www.rwsentosa.com/en/attractions/universal-studios-singapore)
+9. For medical emergencies: [University Health Centre](https://www.nus.edu.sg/uhc)  
+   *(PS: Participants are encouraged to have a Worldwide Medical Insurance coverage).*
+5:T58c,These are the list of important venues for this event:
+
+1. [Singapore Changi Airport](https://www.changiairport.com/) (Changi)
+2. Main contest building: NUS [COM3](https://com3.comp.nus.edu.sg/) building (Global and Local Sponsors will have dedicated rooms)
+3. ICPC Asia Pacific Championship 2025 Approved Hotels (visit [Accommodations](/championship/2025/travel/accomodations/) page for more details). Transportation back-and-forth between Airport/Contest Venue/These Hotels is provided. 
+     - [RELC International Hotel](https://www.relcih.com.sg/en)
+     - [Park Avenue Rochester Hotel](https://parkavenuegroup.com/property/singapore-rochester-parkavenue/)
+4. Ceremony venue: NUS [University Cultural Centre](https://uci.nus.edu.sg/campus-life/university-cultural-centre/)
+5. The contest venue: [COM3 Multipurpose Hall (COM3-01-MPH 1+2+3) + adjoining room: Seminar Room 13 (ALC) (COM3-01-22)](https://cms-wp-dev2.d2.comp.nus.edu.sg/fbs/images/COM3_01.jpg) (with webcast connection between the two rooms)
+6. Coach room during the contest: [COM3-2-MR24 and MR25](https://cms-wp-dev2.d2.comp.nus.edu.sg/fbs/images/COM3_02.jpg)
+7. Excursion venue: [Universal Studios Singapore](https://www.rwsentosa.com/en/attractions/universal-studios-singapore)
+8. For medical emergencies: [University Health Centre](https://www.nus.edu.sg/uhc)  
+   *(PS: Participants are encouraged to have a Worldwide Medical Insurance coverage).*
+6:T541,These are the list of important venues for this event:
+
+1. [Singapore Changi Airport](https://www.changiairport.com/) (Changi)
+2. Main contest building: NUS [COM3](https://com3.comp.nus.edu.sg/) building (Global and Local Sponsors will have dedicated rooms)
+3. ICPC Asia Pacific Championship 2025 Approved Hotels (visit [Accommodations](/championship/2025/travel/accomodations/) page for more details). Transportation back-and-forth between Airport/Contest Venue/These Hotels is provided. 
+     - [RELC International Hotel](https://www.relcih.com.sg/en)
+     - [Park Avenue Rochester Hotel](https://parkavenuegroup.com/property/singapore-rochester-parkavenue/)
+4. Ceremony venue: NUS [University Cultural Centre](https://uci.nus.edu.sg/campus-life/university-cultural-centre/)
+5. The contest venue: [COM3 Multipurpose Hall (COM3-01-MPH 1+2+3) + adjoining room: Seminar Room 13 (ALC) (COM3-01-22)](https://cms-wp-dev2.d2.comp.nus.edu.sg/fbs/images/COM3_01.jpg) (with webcast connection between the two rooms)
+6. Coach room during the contest: COM1-2-SR1
+7. Excursion venue: [Universal Studios Singapore](https://www.rwsentosa.com/en/attractions/universal-studios-singapore)
+8. For medical emergencies: [University Health Centre](https://www.nus.edu.sg/uhc)  
+   *(PS: Participants are encouraged to have a Worldwide Medical Insurance coverage).*
+0:{"buildId":"wlUPUNNi65Qr_lj9ccMPU","rsc":["$","$1","c",{"children":[["$","$L2",null,{"subfolderContentsArray":[{"title":"Venue","content":"$3","lastUpdated":"2025-02-25","directoryName":"venue","previousVersions":[{"date":"2025-01-24","content":"$4"},{"date":"2025-01-13","content":"$5"},{"date":"2024-12-14","content":"$6"}]}],"year":"2025","pageTopTitle":"Venue","pageTopSlug":"venue","showSubfolderTitles":false}],["$L7","$L8","$L9","$La"],"$Lb"]}],"loading":null,"isPartial":false}
+7:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/cfab93335990e1a5.css","precedence":"next"}]
+8:["$","link","1",{"rel":"stylesheet","href":"/_next/static/chunks/f6711f51ad236bba.css","precedence":"next"}]
+9:["$","script","script-0",{"src":"/_next/static/chunks/04f01ecfbc22e762.js","async":true}]
+a:["$","script","script-1",{"src":"/_next/static/chunks/d237dd9a0c9bef65.js","async":true}]
+b:["$","$Lc",null,{"children":["$","$d",null,{"name":"Next.MetadataOutlet","children":"$@e"}]}]
+e:null
