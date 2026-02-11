@@ -61,7 +61,7 @@ Notes:
 7. Excursion venue: [Universal Studios Singapore](https://www.rwsentosa.com/en/attractions/universal-studios-singapore)
 8. For medical emergencies: [University Health Centre](https://www.nus.edu.sg/uhc)  
    *(PS: Participants are encouraged to have a Worldwide Medical Insurance coverage).*
-0:{"buildId":"wlUPUNNi65Qr_lj9ccMPU","rsc":["$","$1","c",{"children":[["$","$L2",null,{"subfolderContentsArray":[{"title":"Venue","content":"$3","lastUpdated":"2025-02-25","directoryName":"venue","previousVersions":[{"date":"2025-01-24","content":"$4"},{"date":"2025-01-13","content":"$5"},{"date":"2024-12-14","content":"$6"}]}],"year":"2025","pageTopTitle":"Venue","pageTopSlug":"venue","showSubfolderTitles":false}],["$L7","$L8","$L9","$La"],"$Lb"]}],"loading":null,"isPartial":false}
+0:{"buildId":"8Xcv5IV0gyWJmUmv9RBOf","rsc":["$","$1","c",{"children":[["$","$L2",null,{"subfolderContentsArray":[{"title":"Venue","content":"$3","lastUpdated":"2025-02-25","directoryName":"venue","previousVersions":[{"date":"2025-01-24","content":"$4"},{"date":"2025-01-13","content":"$5"},{"date":"2024-12-14","content":"$6"}]}],"year":"2025","pageTopTitle":"Venue","pageTopSlug":"venue","showSubfolderTitles":false}],["$L7","$L8","$L9","$La"],"$Lb"]}],"loading":null,"isPartial":false}
 7:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/cfab93335990e1a5.css","precedence":"next"}]
 8:["$","link","1",{"rel":"stylesheet","href":"/_next/static/chunks/f6711f51ad236bba.css","precedence":"next"}]
 9:["$","script","script-0",{"src":"/_next/static/chunks/04f01ecfbc22e762.js","async":true}]

@@ -181,7 +181,7 @@ The rough breakdown of the contest dates are:
     <td>All with badges</td>
   </tr>
 </table>
-0:{"buildId":"wlUPUNNi65Qr_lj9ccMPU","rsc":["$","$1","c",{"children":[["$","$L2",null,{"subfolderContentsArray":[{"title":"Time Table","content":"$3","directoryName":"timetable"}],"year":"2024","pageTopTitle":"Schedule","pageTopSlug":"schedule","showSubfolderTitles":false}],["$L4","$L5","$L6","$L7"],"$L8"]}],"loading":null,"isPartial":false}
+0:{"buildId":"8Xcv5IV0gyWJmUmv9RBOf","rsc":["$","$1","c",{"children":[["$","$L2",null,{"subfolderContentsArray":[{"title":"Time Table","content":"$3","directoryName":"timetable"}],"year":"2024","pageTopTitle":"Schedule","pageTopSlug":"schedule","showSubfolderTitles":false}],["$L4","$L5","$L6","$L7"],"$L8"]}],"loading":null,"isPartial":false}
 4:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/cfab93335990e1a5.css","precedence":"next"}]
 5:["$","link","1",{"rel":"stylesheet","href":"/_next/static/chunks/f6711f51ad236bba.css","precedence":"next"}]
 6:["$","script","script-0",{"src":"/_next/static/chunks/04f01ecfbc22e762.js","async":true}]

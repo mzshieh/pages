@@ -1402,7 +1402,7 @@ The rough breakdown of the contest dates are:
     <td>USS &rightarrow; Changi</td>
   </tr>
 </table>
-0:{"buildId":"wlUPUNNi65Qr_lj9ccMPU","rsc":["$","$1","c",{"children":[["$","$L2",null,{"subfolderContentsArray":[{"title":"Time Table","content":"$3","lastUpdated":"2025-02-25","directoryName":"timetable","previousVersions":[{"date":"2025-02-23","content":"$4"},{"date":"2025-01-24","content":"$5"},{"date":"2025-01-16","content":"$6"},{"date":"2025-01-13","content":"$7"},{"date":"2024-12-14","content":"$8"}]}],"year":"2025","pageTopTitle":"Schedule","pageTopSlug":"schedule","showSubfolderTitles":false}],["$L9","$La","$Lb","$Lc"],"$Ld"]}],"loading":null,"isPartial":false}
+0:{"buildId":"8Xcv5IV0gyWJmUmv9RBOf","rsc":["$","$1","c",{"children":[["$","$L2",null,{"subfolderContentsArray":[{"title":"Time Table","content":"$3","lastUpdated":"2025-02-25","directoryName":"timetable","previousVersions":[{"date":"2025-02-23","content":"$4"},{"date":"2025-01-24","content":"$5"},{"date":"2025-01-16","content":"$6"},{"date":"2025-01-13","content":"$7"},{"date":"2024-12-14","content":"$8"}]}],"year":"2025","pageTopTitle":"Schedule","pageTopSlug":"schedule","showSubfolderTitles":false}],["$L9","$La","$Lb","$Lc"],"$Ld"]}],"loading":null,"isPartial":false}
 9:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/cfab93335990e1a5.css","precedence":"next"}]
 a:["$","link","1",{"rel":"stylesheet","href":"/_next/static/chunks/f6711f51ad236bba.css","precedence":"next"}]
 b:["$","script","script-0",{"src":"/_next/static/chunks/04f01ecfbc22e762.js","async":true}]
