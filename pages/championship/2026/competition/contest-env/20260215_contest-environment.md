@@ -1,8 +1,12 @@
+This describes current plans for the programming environment which will be available in the contest. Note that these plans are subject to change.
+
 ## Judging Environment
 * [DOMjudge Team Manual](/assets/championship/2026/domjudge-team-manual.pdf) (Updated on February 11, 2026)
 * [Judging Notes](/assets/championship/2026/judging-notes.pdf) (Updated on February 11, 2026)
 
 ## Contestant Environment
+
+Each team will be provided with one workstation, shared between team members.
 
 ### Hardware
 
@@ -13,6 +17,8 @@
 - **Monitor**: ASUS VP247H 24-inch LCD
 - **Keyboard Layout**: US ANSI 104 keys with Taiwanese keyboard stickers
 - **Mouse**: Generic wheel mouse
+
+No hardware substitutions will be allowed (that is, teams may not bring their own equipment onto the contest floor). This includes that teams may not substitute keyboards or other peripherals; all teams will use identical equipment, as described above, during the contest.
 
 ### Software
 
