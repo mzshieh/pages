@@ -62,6 +62,12 @@
            "size": 5,
 	   "filename": "/assets/sponsors/CSROC_logo.jpg"
 	}
+      },
+      {
+        "Information Technology Center, Department of Computer Science, National Yang Ming Chiao Tung University": {
+           "size": 4.5,
+	   "filename": "/assets/sponsors/nycu-csit.svg"
+	}
       }
     ]
   },
