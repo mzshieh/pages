@@ -18,7 +18,7 @@ Each team will be provided with one workstation, shared between team members.
 - **Keyboard Layout**: US ANSI 104 keys with Taiwanese keyboard stickers
 - **Mouse**: Generic wheel mouse
 
-No hardware substitutions will be allowed (that is, teams may not bring their own equipment onto the contest floor). This includes that teams may not substitute keyboards or other peripherals; all teams will use identical equipment, as described above, during the contest.
+No hardware substitutions will be allowed (that is, teams may not bring their own equipment into the contest hall). This includes that teams may not substitute keyboards or other peripherals; all teams will use identical equipment, as described above, during the contest.
 
 ### Software
 
@@ -65,7 +65,7 @@ All the items are subject to the judges, marshals, and contest staffs' inspectio
 
 ## Snacks, Drinks, and Water
 
-- There is a designated snack area inside the contest floor with drinks and snack supply. Do not eat or drink anywhere else.
+- There is a designated snack area inside the contest hall with drinks and snack supply. Do not eat or drink anywhere else.
 - During dress rehearsal:
   + Foods and drinks are NOT supplied.
   + Bottled water is provided at the designated area.
