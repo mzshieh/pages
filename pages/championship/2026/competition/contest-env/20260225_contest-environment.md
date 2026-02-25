@@ -58,7 +58,7 @@ Contestants may also bring the following items to their team area. Contestants m
   - Loud and distracting mascots are prohibited.
   - Stationery (including pens, pencils, protractors, and rulers), food, and any other explicitly prohibited items are not considered as mascots and therefore they are prohibited.
 + Hyagiene products (e.g., tissues, hand sanitizer, menstrual products, masks, and basic medical supplies) are allowed provided they do not disturb other teams.
-+ Personal medicinesi are allowed.
++ Personal medicines are allowed.
 + Food, drinks, and water bottles are prohibited.
 
 All the items are subject to the judges, marshals, and contest staffs' inspection after the dress rehearsal. Please note that all items should not disturb other teams in any form, including noise, smell, culturally insensitive contents, and other things. No other materials are allowed to be in the team area.
