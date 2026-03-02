@@ -4,7 +4,7 @@ For the MRT:
 * You may purchase single-journey tickets with cash, or
 * Use contactless credit cards directly at the gate
 
-At on-site registration, each team member will receive an EasyCard preloaded with **NTD 100**, which covers approximately four trips between the contest venue and stations A16–A21.
+At on-site registration, each team member will receive an EasyCard preloaded with **NTD 100**, which covers approximately four trips between the contest venue and stations A16–A22.
 
 For more information on MRT tickets, please refer to:
 https://www.tymetro.com.tw/tymetro-new/en/_pages/travel-guide/ticket.html
