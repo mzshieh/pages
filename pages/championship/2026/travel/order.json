@@ -6,5 +6,9 @@
   "accommodations": {
     "order": 2,
     "display_name": "Accommodations"
+  },
+  "transportation": {
+    "order": 3,
+    "display_name": "Transportation"
   }
 }

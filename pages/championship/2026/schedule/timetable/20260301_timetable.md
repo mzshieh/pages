@@ -1,5 +1,3 @@
-## Tentative Schedule
-
 ### March 6: Registration Day
 
 + **14:00 – 17:00**: Registration, Photo Session and Career Fair @ 3F, Messe Taoyuan
