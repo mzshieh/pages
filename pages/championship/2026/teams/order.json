@@ -3,8 +3,8 @@
     "order": 1,
     "display_name": "Participating Teams"
   },
-  "medalists": {
+  "seat": {
     "order": 2,
-    "display_name": "List of Medalists"
+    "display_name": "Seat Information"
   }
 }
