@@ -16,7 +16,7 @@ e:I[4431,[],"ViewportBoundary"]
 :HL["/_next/static/css/3c8fc84456a26512.css","style"]
 :HL["/_next/static/css/01fc40d133734f3c.css","style"]
 :HL["/_next/static/css/0c04faee0818f8e8.css","style"]
-0:{"P":null,"b":"ZC9gbPKLkt9QT7hry_gAT","p":"","c":["","championship","2026","committee",""],"i":false,"f":[[["",{"children":["championship",{"children":[["year","2026","d"],{"children":[["section","committee","d"],{"children":["__PAGE__",{}]}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/0f7d159e7cbf07ca.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","suppressHydrationWarning":true,"children":[["$","head",null,{"children":[["$","meta",null,{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","link",null,{"rel":"icon","type":"image/png","href":"/favicon/favicon-96x96.png","sizes":"96x96"}],["$","link",null,{"rel":"icon","type":"image/svg+xml","href":"/favicon/favicon.svg"}],["$","link",null,{"rel":"shortcut icon","href":"/favicon.ico"}],["$","link",null,{"rel":"apple-touch-icon","sizes":"180x180","href":"/favicon/apple-touch-icon.png"}],["$","meta",null,{"name":"apple-mobile-web-app-title","content":"APAC'25"}],["$","link",null,{"rel":"manifest","href":"/favicon/site.webmanifest"}]]}],["$","body",null,{"className":"__className_f367f3 bg dark:bg-dark bg-fixed dark:text-slate-300","children":["$","$L2",null,{"children":[["$","$L3",null,{}],["$","div",null,{"className":"min-h-screen my-10","suppressHydrationWarning":true,"children":["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","$L6",null,{}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","$L7",null,{}]]}]}]]}]]}],{"children":["championship",["$","$1","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["year","2026","d"],["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/3c8fc84456a26512.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],"$L8"]}],{"children":[["section","committee","d"],["$","$1","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L9",[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/01fc40d133734f3c.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/_next/static/css/0c04faee0818f8e8.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","$La",null,{"children":["$Lb",["$","$Lc",null,{"promise":"$@d"}]]}]]}],{},null,false]},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$Le",null,{"children":"$Lf"}],["$","meta",null,{"name":"next-size-adjust","content":""}]],["$","$L10",null,{"children":["$","div",null,{"hidden":true,"children":["$","$11",null,{"fallback":null,"children":"$L12"}]}]}]]}],false]],"m":"$undefined","G":["$13",[]],"s":false,"S":true}
+0:{"P":null,"b":"_q42RmzfVgjkxT_o8rtuK","p":"","c":["","championship","2026","committee",""],"i":false,"f":[[["",{"children":["championship",{"children":[["year","2026","d"],{"children":[["section","committee","d"],{"children":["__PAGE__",{}]}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/0f7d159e7cbf07ca.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","suppressHydrationWarning":true,"children":[["$","head",null,{"children":[["$","meta",null,{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","link",null,{"rel":"icon","type":"image/png","href":"/favicon/favicon-96x96.png","sizes":"96x96"}],["$","link",null,{"rel":"icon","type":"image/svg+xml","href":"/favicon/favicon.svg"}],["$","link",null,{"rel":"shortcut icon","href":"/favicon.ico"}],["$","link",null,{"rel":"apple-touch-icon","sizes":"180x180","href":"/favicon/apple-touch-icon.png"}],["$","meta",null,{"name":"apple-mobile-web-app-title","content":"APAC'25"}],["$","link",null,{"rel":"manifest","href":"/favicon/site.webmanifest"}]]}],["$","body",null,{"className":"__className_f367f3 bg dark:bg-dark bg-fixed dark:text-slate-300","children":["$","$L2",null,{"children":[["$","$L3",null,{}],["$","div",null,{"className":"min-h-screen my-10","suppressHydrationWarning":true,"children":["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","$L6",null,{}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","$L7",null,{}]]}]}]]}]]}],{"children":["championship",["$","$1","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["year","2026","d"],["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/3c8fc84456a26512.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],"$L8"]}],{"children":[["section","committee","d"],["$","$1","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L9",[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/01fc40d133734f3c.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/_next/static/css/0c04faee0818f8e8.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","$La",null,{"children":["$Lb",["$","$Lc",null,{"promise":"$@d"}]]}]]}],{},null,false]},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$Le",null,{"children":"$Lf"}],["$","meta",null,{"name":"next-size-adjust","content":""}]],["$","$L10",null,{"children":["$","div",null,{"hidden":true,"children":["$","$11",null,{"fallback":null,"children":"$L12"}]}]}]]}],false]],"m":"$undefined","G":["$13",[]],"s":false,"S":true}
 14:I[4715,["619","static/chunks/619-ba102abea3e3d0e4.js","698","static/chunks/698-6bd989f1fab99d5c.js","617","static/chunks/617-703b27bf1f764efa.js","239","static/chunks/239-dc7e9fe64f748590.js","651","static/chunks/app/championship/%5Byear%5D/layout-13883ef946134dfa.js"],"default"]
 8:["$","$L14",null,{"year":"2026","children":["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]}]
 f:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
@@ -24,7 +24,165 @@ b:null
 d:{"metadata":[["$","title","0",{"children":"The ICPC Asia Pacific Championship"}],["$","meta","1",{"name":"description","content":"The official website for the The ICPC Asia Pacific Championship"}],["$","meta","2",{"property":"og:title","content":"The ICPC Asia Pacific Championship"}],["$","meta","3",{"property":"og:description","content":"The official website for the The ICPC Asia Pacific Championship"}],["$","meta","4",{"property":"og:image","content":"http://localhost:3000/assets/icpc-logo.png"}],["$","meta","5",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","6",{"name":"twitter:title","content":"The ICPC Asia Pacific Championship"}],["$","meta","7",{"name":"twitter:description","content":"The official website for the The ICPC Asia Pacific Championship"}],["$","meta","8",{"name":"twitter:image","content":"http://localhost:3000/assets/icpc-logo.png"}]],"error":null,"digest":"$undefined"}
 12:"$d:metadata"
 15:I[140,["458","static/chunks/e58627ac-2cdcbe78189183e3.js","619","static/chunks/619-ba102abea3e3d0e4.js","698","static/chunks/698-6bd989f1fab99d5c.js","617","static/chunks/617-703b27bf1f764efa.js","59","static/chunks/59-cfe495d6d0cd8696.js","915","static/chunks/915-613c8b44be5f4fa9.js","825","static/chunks/825-6cbf5afbcb5d45ee.js","656","static/chunks/app/championship/%5Byear%5D/%5Bsection%5D/page-aed761722fd5f5ea.js"],"default"]
-16:T5fc,## Organizing Committees
+16:T1074,## Organizing Committees
+
+<table>
+  <thead>
+    <tr>
+      <th>Role</th>
+      <th>Name</th>
+      <th>Affiliation</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>ICPC Asia Governor</strong></td>
+      <td>C. Jinshong Hwang</td>
+      <td>USA, Texas State University</td>
+    </tr>
+    <tr>
+      <td><strong>ICPC Asia Pacific Director</strong></td>
+      <td>Katsuhiko Kakehi</td>
+      <td>JPN, Waseda University</td>
+    </tr>
+    <tr>
+      <td><strong>the 2026 ICPC Asia Pacific Championship Director</strong></td>
+      <td>Sheng-Lung Peng</td>
+      <td>TWN, National Taipei University of Business</td>
+    </tr>
+    <tr>
+      <td rowspan=2><strong>the 2026 ICPC Asia Pacific Championship Co-Directors</strong></td>
+      <td>Ling-Ju Hung</td>
+      <td>TWN, National Taipei University of Business</td>
+    </tr>
+    <tr>
+      <td>Min-Zheng Shieh</td>
+      <td>TWN, National Yang Ming Chiao Tung University</td>
+    </tr>
+    <tr>
+      <td rowspan=10><strong>International Judge Committee</strong></td>
+      <td>Peter Rossmanith (Chief Judge)</td>
+      <td>DEU, RWTH Aachen University</td>
+    </tr>
+    <tr>
+      <td>Brian Tsai (member)</td>
+      <td>TWN, National Taiwan University</td>
+    </tr>
+    <tr>
+      <td>Gyojun Youn (member)</td>
+      <td>KOR, KAIST</td>
+    </tr>
+    <tr>
+      <td>Jonathan Irvin Gunawan (member)</td>
+      <td>SGP, Meta Platforms</td>
+    </tr>
+    <tr>
+      <td>Ke-Wei Huang (member)</td>
+      <td>TWN, National Yang Ming Chiao Tung University</td>
+    </tr>
+    <tr>
+      <td>Meng-Tsung Tsai (member)</td>
+      <td>TWN, Academia Sinica</td>
+    </tr>
+    <tr>
+      <td>Mitsuru Kusumoto (member)</td>
+      <td>JPN, Monoxer</td>
+    </tr>
+    <tr>
+      <td>Pikatan Arya Bramajati (member)</td>
+      <td>IDN, IA-TOKI</td>
+    </tr>
+    <tr>
+      <td>Shogo Murai (member)</td>
+      <td>JPN, Preferred Networks, Inc.</td>
+    </tr>
+    <tr>
+      <td>Thanh Trung Nguyen (member)</td>
+      <td>VNM, Code Cùng RR</td>
+    </tr>
+    <tr>
+      <td rowspan=6><strong>International Technical Committee</strong></td>
+      <td>Rie Shigetomi Yamaguchi (chair)</td>
+      <td>JPN, The University of Tokyo</td>
+    </tr>
+    <tr>
+      <td>Yu Sugawara (Member)</td>
+      <td>JPN, Google</td>
+    </tr>
+    <tr>
+      <td>Hiroki Sato (Member)</td>
+      <td>JPN, Google</td>
+    </tr>
+    <tr>
+      <td>Andreas Martin (Member)</td>
+      <td>IDN, Collabocode</td>
+    </tr>
+    <tr>
+      <td>Felicia Limanta (Member)</td>
+      <td>IDN, GDP Labs</td>
+    </tr>
+    <tr>
+      <td>Vio Albert Ferdinand (Member)</td>
+      <td>IDN, GDP Labs</td>
+    </tr>
+    <tr>
+      <td rowspan=5><strong>Host Technical Committee</strong></td>
+      <td>Shang-En Huang (Leader)</td>
+      <td>TWN, National Taiwan University</td>
+    </tr>
+    <tr>
+      <td>Jinn-Shyong Yang (Leader)</td>
+      <td>TWN, National Taipei University of Business</td>
+    </tr>
+    <tr>
+      <td>Yu-Hsiang Lin (Member)</td>
+      <td>TWN, National Yang Ming Chiao Tung University</td>
+    </tr>
+    <tr>
+      <td>Yi-Ting Shih (Member)</td>
+      <td>TWN, National Yang Ming Chiao Tung University</td>
+    </tr>
+    <tr>
+      <td>Ming-Yu Huang (Member)</td>
+      <td>TWN, National Yang Ming Chiao Tung University</td>
+    </tr>
+    <tr>
+      <td><strong>Marshal Team</strong></td>
+      <td>Don-Khue Le (Leader)</td>
+      <td>VNM, Vietnam Association in Information Processing</td>
+    </tr>
+    <tr>
+      <td><strong>Runner Team</strong></td>
+      <td>Yu-Han Chen</td>
+      <td>TWN, National Cheng Kung University</td>
+    </tr>
+    <tr>
+      <td><strong>Financial Team</strong></td>
+      <td>Chia-Wei Lee</td>
+      <td>TWN, Univerisity of Taipei</td>
+    </tr>
+    <tr>
+      <td><strong>Media Team</strong></td>
+      <td>Chuck Lee</td>
+      <td>TWN, Google</td>
+    </tr>
+    <tr>
+      <td rowspan=2><strong>Website Team</strong></td>
+      <td>Felicia Limanta</td>
+      <td>IDN, GDP Labs</td>
+    </tr>
+    <tr>
+      <td>Min-Zheng Shieh</td>
+      <td>TWN, National Yang Ming Chiao Tung University</td>
+    </tr>
+    <tr>
+      <td><strong>Social Media</strong></td>
+      <td>Felicia Limanta</td>
+      <td>IDN, GDP Labs</td>
+    </tr>
+  </tbody>
+</table>
+17:T5fc,## Organizing Committees
 
 ### ICPC Asia Governor 
 
@@ -90,7 +248,7 @@ Chuck Lee, Google
 ### Website Team
 
 Felicia Limanta, GDP Labs, Indonesia
-17:T5a2,## Organizing Committees
+18:T5a2,## Organizing Committees
 
 ### ICPC Asia Governor 
 
@@ -156,7 +314,7 @@ Chuck Lee, Google
 ### Website Team
 
 Felicia Limanta, Singapore
-18:T585,## Organizing Committees
+19:T585,## Organizing Committees
 
 ### ICPC Asia Governor 
 
@@ -221,4 +379,4 @@ Chuck Lee, Google
 ### Website Team
 
 Felicia Limanta
-9:["$","$L15",null,{"subfolderContentsArray":[{"title":"Committee","content":"$16","lastUpdated":"2026-03-01","directoryName":"committee","previousVersions":[{"date":"2026-01-19","content":"$17"},{"date":"2026-01-15","content":"$18"},{"date":"2025-12-18","content":"To be announced.\n"}]}],"year":"2026","pageTopTitle":"Committee","pageTopSlug":"committee","showSubfolderTitles":false}]
+9:["$","$L15",null,{"subfolderContentsArray":[{"title":"Committee","content":"$16","lastUpdated":"2026-03-08","directoryName":"committee","previousVersions":[{"date":"2026-03-01","content":"$17"},{"date":"2026-01-19","content":"$18"},{"date":"2026-01-15","content":"$19"},{"date":"2025-12-18","content":"To be announced.\n"}]}],"year":"2026","pageTopTitle":"Committee","pageTopSlug":"committee","showSubfolderTitles":false}]
