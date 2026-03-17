@@ -16,7 +16,7 @@ e:I[4431,[],"ViewportBoundary"]
 :HL["/_next/static/css/3c8fc84456a26512.css","style"]
 :HL["/_next/static/css/01fc40d133734f3c.css","style"]
 :HL["/_next/static/css/0c04faee0818f8e8.css","style"]
-0:{"P":null,"b":"h8yO1PZcDekYIdgII1y9P","p":"","c":["","championship","2026","teams",""],"i":false,"f":[[["",{"children":["championship",{"children":[["year","2026","d"],{"children":[["section","teams","d"],{"children":["__PAGE__",{}]}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/0f7d159e7cbf07ca.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","suppressHydrationWarning":true,"children":[["$","head",null,{"children":[["$","meta",null,{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","link",null,{"rel":"icon","type":"image/png","href":"/favicon/favicon-96x96.png","sizes":"96x96"}],["$","link",null,{"rel":"icon","type":"image/svg+xml","href":"/favicon/favicon.svg"}],["$","link",null,{"rel":"shortcut icon","href":"/favicon.ico"}],["$","link",null,{"rel":"apple-touch-icon","sizes":"180x180","href":"/favicon/apple-touch-icon.png"}],["$","meta",null,{"name":"apple-mobile-web-app-title","content":"APAC'25"}],["$","link",null,{"rel":"manifest","href":"/favicon/site.webmanifest"}]]}],["$","body",null,{"className":"__className_f367f3 bg dark:bg-dark bg-fixed dark:text-slate-300","children":["$","$L2",null,{"children":[["$","$L3",null,{}],["$","div",null,{"className":"min-h-screen my-10","suppressHydrationWarning":true,"children":["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","$L6",null,{}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","$L7",null,{}]]}]}]]}]]}],{"children":["championship",["$","$1","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["year","2026","d"],["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/3c8fc84456a26512.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],"$L8"]}],{"children":[["section","teams","d"],["$","$1","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L9",[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/01fc40d133734f3c.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/_next/static/css/0c04faee0818f8e8.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","$La",null,{"children":["$Lb",["$","$Lc",null,{"promise":"$@d"}]]}]]}],{},null,false]},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$Le",null,{"children":"$Lf"}],["$","meta",null,{"name":"next-size-adjust","content":""}]],["$","$L10",null,{"children":["$","div",null,{"hidden":true,"children":["$","$11",null,{"fallback":null,"children":"$L12"}]}]}]]}],false]],"m":"$undefined","G":["$13",[]],"s":false,"S":true}
+0:{"P":null,"b":"c_PbX3RzlLPUYG-g3e91K","p":"","c":["","championship","2026","teams",""],"i":false,"f":[[["",{"children":["championship",{"children":[["year","2026","d"],{"children":[["section","teams","d"],{"children":["__PAGE__",{}]}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/0f7d159e7cbf07ca.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","suppressHydrationWarning":true,"children":[["$","head",null,{"children":[["$","meta",null,{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","link",null,{"rel":"icon","type":"image/png","href":"/favicon/favicon-96x96.png","sizes":"96x96"}],["$","link",null,{"rel":"icon","type":"image/svg+xml","href":"/favicon/favicon.svg"}],["$","link",null,{"rel":"shortcut icon","href":"/favicon.ico"}],["$","link",null,{"rel":"apple-touch-icon","sizes":"180x180","href":"/favicon/apple-touch-icon.png"}],["$","meta",null,{"name":"apple-mobile-web-app-title","content":"APAC'25"}],["$","link",null,{"rel":"manifest","href":"/favicon/site.webmanifest"}]]}],["$","body",null,{"className":"__className_f367f3 bg dark:bg-dark bg-fixed dark:text-slate-300","children":["$","$L2",null,{"children":[["$","$L3",null,{}],["$","div",null,{"className":"min-h-screen my-10","suppressHydrationWarning":true,"children":["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","$L6",null,{}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","$L7",null,{}]]}]}]]}]]}],{"children":["championship",["$","$1","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["year","2026","d"],["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/3c8fc84456a26512.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],"$L8"]}],{"children":[["section","teams","d"],["$","$1","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L9",[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/01fc40d133734f3c.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/_next/static/css/0c04faee0818f8e8.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","$La",null,{"children":["$Lb",["$","$Lc",null,{"promise":"$@d"}]]}]]}],{},null,false]},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$Le",null,{"children":"$Lf"}],["$","meta",null,{"name":"next-size-adjust","content":""}]],["$","$L10",null,{"children":["$","div",null,{"hidden":true,"children":["$","$11",null,{"fallback":null,"children":"$L12"}]}]}]]}],false]],"m":"$undefined","G":["$13",[]],"s":false,"S":true}
 14:I[4715,["619","static/chunks/619-ba102abea3e3d0e4.js","698","static/chunks/698-6bd989f1fab99d5c.js","617","static/chunks/617-703b27bf1f764efa.js","239","static/chunks/239-dc7e9fe64f748590.js","651","static/chunks/app/championship/%5Byear%5D/layout-13883ef946134dfa.js"],"default"]
 8:["$","$L14",null,{"year":"2026","children":["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]}]
 f:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
@@ -24,7 +24,86 @@ b:null
 d:{"metadata":[["$","title","0",{"children":"The ICPC Asia Pacific Championship"}],["$","meta","1",{"name":"description","content":"The official website for the The ICPC Asia Pacific Championship"}],["$","meta","2",{"property":"og:title","content":"The ICPC Asia Pacific Championship"}],["$","meta","3",{"property":"og:description","content":"The official website for the The ICPC Asia Pacific Championship"}],["$","meta","4",{"property":"og:image","content":"http://localhost:3000/assets/icpc-logo.png"}],["$","meta","5",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","6",{"name":"twitter:title","content":"The ICPC Asia Pacific Championship"}],["$","meta","7",{"name":"twitter:description","content":"The official website for the The ICPC Asia Pacific Championship"}],["$","meta","8",{"name":"twitter:image","content":"http://localhost:3000/assets/icpc-logo.png"}]],"error":null,"digest":"$undefined"}
 12:"$d:metadata"
 15:I[140,["458","static/chunks/e58627ac-2cdcbe78189183e3.js","619","static/chunks/619-ba102abea3e3d0e4.js","698","static/chunks/698-6bd989f1fab99d5c.js","617","static/chunks/617-703b27bf1f764efa.js","59","static/chunks/59-cfe495d6d0cd8696.js","915","static/chunks/915-613c8b44be5f4fa9.js","825","static/chunks/825-6cbf5afbcb5d45ee.js","656","static/chunks/app/championship/%5Byear%5D/%5Bsection%5D/page-aed761722fd5f5ea.js"],"default"]
-16:Td2c,## Invited Teams
+16:Td2e,## Invited Teams
+### Regional Winners
+- Seoul National University: Just use CRT
+- National University of Singapore: Strong Zero
+- National Taiwan University: std_abs
+- National Taiwan University: PCkomachi
+- National University of Singapore: Penguin and Tonic
+
+### South Pacific Top 2
+- UNSW Sydney: ); DROP TABLE Teams;--
+- University of Melbourne: Uniformly Random Name
+
+## Qualified Teams
+- Chulalongkorn University: Here for the Free Snacks
+- National Yang Ming Chiao Tung University: NYCU_Revue_Starlight
+- Institute of Science Tokyo: AMATSUKAZE
+- National Yang Ming Chiao Tung University: NYCU_CartesianTreeII
+- Keio University: Rinshan Solution
+- Yonsei University: Endgame
+- University of Science, VNU-HCM: HCMUS-ThaiFamily
+- Nanyang Technological University: Ciallo (∠・w )⌒☆
+- BINUS University: WanPiece
+- De La Salle University: The b in problem b stands for brick
+- Xiamen University Malaysia: Miracle Trio
+- HCMC University of Technology and Engineering: Last Dance
+- Kyoto University: DaiMonge
+- University of Engineering and Technology - VNU: milliard
+- The University of Tokyo: SSQS
+- University of Aizu: bonsai
+- KAIST: Fox is cute
+- KAIST: Rock kokiri paper
+- National Economics University: NEU.Anarchaos
+- Posts and Telecommunications Institute of Technology, HN: PTIT.Star
+- Kyoto University: bogosort
+- National Yang Ming Chiao Tung University: NYCU_FriedShrimp
+- University of Science, VNU-HCM: HCMUS-AleaJactaEst
+- Nanyang Technological University: print("\u0D9E")
+- The University of Tokyo: Magical Fish
+- Hanoi University of Science and Technology: ack
+- The University of Osaka: The Revenge of shinchan
+- University of Aizu: aizu_3
+- SungKyunKwan University: junhoLover
+- University of Engineering and Technology - VNU: googol
+- Kyoto University: THS
+- National Tsing Hua University: oil.push_back()
+- University of Science, VNU-HCM: HCMUS-TrinityForce
+- Yonsei University: SEVERANCE
+- The University of Tokyo: 217
+- Hokkaido University: y_1
+- University of Engineering and Technology - VNU: infinity
+- National Taiwan Normal University: NTNU_2beatdown
+- BINUS University: r3eial
+- University of Information Technology - Vietnam National University HCM: UIT.DTD.DestroyTheDemon
+- Hanyang University: NJG
+- Institute of Science Tokyo: o3-kayama
+- National Tsing Hua University: BlueCapeFlyingCat
+- University of Information Technology - Vietnam National University HCM: UIT.HKN.2mic1cup
+- KAIST: UmJongNo
+- Hokkaido University: Akai_Koibito
+- BINUS University: fa ri do la si ma net
+- University of Science and Technology - The University of Danang: BKDN.LoveBaku
+- University of Information Technology - Vietnam National University HCM: VNUHCM.UIT.JobSeekers
+- Institute of Science Tokyo: zer0shiki
+- Ho Chi Minh City University of Technology: HCMUT FieryFirefly
+- Universitas Gadjah Mada: GMAC
+- The University of Osaka: 1.5Nachia
+- Jeonbuk National University: 2 3 5 8 14
+- Soongsil University: MWM
+- FPT University: FPTU New Era
+- Universitas Indonesia: Jangan Lupa Beli Akun ML di @sultanmarketmlbb
+- National Cheng Kung University: NCKU_hamster
+- Hanoi University of Science and Technology: HUST AVG
+- Hanoi University of Science and Technology: Matikanefukukitaru
+- Pusan National University: Just Reboot JungSangHwa
+- Ho Chi Minh City University of Technology: HCMUT Himawari
+
+## Wildcard
+
+- National Central University: WhereisSouth
+17:Td2c,## Invited Teams
 ### Regional Winners
 - Seoul National University: Just use CRT
 - National University of Singapore: Strong Zero
@@ -103,7 +182,7 @@ d:{"metadata":[["$","title","0",{"children":"The ICPC Asia Pacific Championship"
 ## Wildcard
 
 - National Central University: WhereisSouth
-17:T1b9f,<table>
+18:T1b9f,<table>
   <colgroup>
     <col style="width:10%">
     <col style="width:auto">
@@ -191,7 +270,7 @@ d:{"metadata":[["$","title","0",{"children":"The ICPC Asia Pacific Championship"
     <tr><td>70</td><td>Yonsei University</td><td>SEVERANCE</td><td>I-7</td></tr>
   </tbody>
 </table>
-18:Tf6e,| University | Team | Seat |
+19:Tf6e,| University | Team | Seat |
 |---|---|---|
 | BINUS University | fa ri do la si ma net | B-4 |
 | BINUS University | r3eial | F-5 |
@@ -263,4 +342,4 @@ d:{"metadata":[["$","title","0",{"children":"The ICPC Asia Pacific Championship"
 | Xiamen University Malaysia | Miracle Trio | E-5 |
 | Yonsei University | Endgame | D-6 |
 | Yonsei University | SEVERANCE | I-7 |
-9:["$","$L15",null,{"subfolderContentsArray":[{"title":"Participating Teams","content":"$16","lastUpdated":"2025-12-18","directoryName":"teams","previousVersions":"$undefined"},{"title":"Seat Information","content":"$17","lastUpdated":"2026-03-06","directoryName":"seat","previousVersions":[{"date":"2026-03-05","content":"$18"}]}],"year":"2026","pageTopTitle":"Teams","pageTopSlug":"teams","showSubfolderTitles":true}]
+9:["$","$L15",null,{"subfolderContentsArray":[{"title":"Participating Teams","content":"$16","lastUpdated":"2026-03-17","directoryName":"teams","previousVersions":[{"date":"2025-12-18","content":"$17"}]},{"title":"Seat Information","content":"$18","lastUpdated":"2026-03-06","directoryName":"seat","previousVersions":[{"date":"2026-03-05","content":"$19"}]}],"year":"2026","pageTopTitle":"Teams","pageTopSlug":"teams","showSubfolderTitles":true}]
